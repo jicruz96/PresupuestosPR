@@ -79,13 +79,13 @@ script.
 ## Work Completed for the Day
 
 * All municipal budgets have been downloaded.
-* I built my first web scraping (is this really web scraping) script! Check
-it out here.
+* I built my first web scraping (is this really web scraping) script! [Check
+it out by clicking here!](https://github.com/jicruz96/portfolio_project/tree/main/helper_scripts/get_municipal_budgets.py) It's quite the looker if you ask me...
 
 ## Intended Work for Today I Failed to Complete
 
 * I have not cleaned up the data, and after downloading the bunch, **I am now 
-very aware it will likely take several days to clean up the data.**
+very aware it will likely take several days to clean up all the data.**
 
 * I did not build a basic Flask app. I shall do this tomorrow.
 
@@ -109,7 +109,7 @@ total time I've spent working on the project.
 
 ## Fun Facts
 
-### The Peñuelas budget failed to download because the file was uploaded with the name "Panuelas"
+### The Peñuelas budget failed to download because the government uploaded the file with the name "Panuelas"
 
 ## Stats
 
