@@ -115,7 +115,13 @@ for muni in municipios:
         print("{} failed :(".format(muni))
     # If everything went okay, save the file
     else:
-        # make file name
+        # make file name:
+        #   file name format is the town name:
+        #       * all lower case,
+        #       * spaces replaced with underscores,
+        #       * unicode characters replaced with closest ASCII counterparts
+        #       * ends with .pdf extension
+        #   Example: "Río Grande" --> "rio_grande.pdf"
         file_name = muni.lower().replace(" ", "_") + ".pdf"
         file_name = unidecode(file_name)  # removes the áéíóú's and such
         with open(file_name, 'wb') as file:
