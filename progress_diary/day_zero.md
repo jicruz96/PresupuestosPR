@@ -1,6 +1,6 @@
 # Day 0 - Setting up a game plan
 
-Tuesday 13 October 2020
+Wednesday 13 October 2020
 
 [confirms.pepper.spilling](https://what3words.com/confirms.pepper.spilling)
 
