@@ -1,0 +1,917 @@
+departamento,gasto,monto
+Legislatura Municipal,Empleados Regulares,355608.0
+Legislatura Municipal,Seguro Choferil,22.0
+Legislatura Municipal,Seguro Social Federal,28340.0
+Legislatura Municipal,Plan Medico,19800.0
+Legislatura Municipal,Beneficio por Fondo del Seguro del Estado,7657.0
+Legislatura Municipal,Bono Navideno,8800.0
+Legislatura Municipal,Beneficios Marginales,6000.0
+Legislatura Municipal,Materiales de Oficina,2000.0
+Legislatura Municipal,Materiales de Mantenimiento,750.0
+Legislatura Municipal,Compra de Uniformes,1800.0
+Legislatura Municipal,Equipo de Oficina,1000.0
+Legislatura Municipal,Equipo de Mantenimiento,500.0
+Legislatura Municipal,Compra de Equipos,15000.0
+Legislatura Municipal,Dietas,80000.0
+Legislatura Municipal,Adiestramientos,2000.0
+Legislatura Municipal,Servicios No Profesionales,2000.0
+Legislatura Municipal,Gastos de Viaje,5000.0
+Legislatura Municipal,Cuotas y Suscripciones,5000.0
+Legislatura Municipal,Miscelaneos,5000.0
+Legislatura Municipal,Publicaciones y Anuncios,2000.0
+Oficina del Alcalde(sa),Empleados Regulares,604360.0
+Oficina del Alcalde(sa),Seguro Choferil,132.0
+Oficina del Alcalde(sa),Seguro Social Federal,48754.0
+Oficina del Alcalde(sa),Plan Medico,46800.0
+Oficina del Alcalde(sa),Beneficio por Fondo del Seguro del Estado,13140.0
+Oficina del Alcalde(sa),Bono Navideno,20800.0
+Oficina del Alcalde(sa),Beneficios Marginales,12000.0
+Oficina del Alcalde(sa),Materiales de Oficina,2000.0
+Oficina del Alcalde(sa),Materiales y Suministros de Operacion,7000.0
+Oficina del Alcalde(sa),Gastos de Representacion,8000.0
+Oficina del Alcalde(sa),Servicios No Profesionales,2580.0
+Oficina del Alcalde(sa),Gastos de Viaje,20000.0
+Oficina del Alcalde(sa),Cuotas y Suscripciones,31300.0
+Oficina del Alcalde(sa),Mantenimiento de Equipo,6000.0
+Oficina del Alcalde(sa),Miscelaneos,1000.0
+Oficina del Alcalde(sa),Empleados Regulares,25212.0
+Oficina del Alcalde(sa),Seguro Social Federal,1990.0
+Oficina del Alcalde(sa),Plan Medico,1800.0
+Oficina del Alcalde(sa),Beneficio por Fondo del Seguro del Estado,547.0
+Oficina del Alcalde(sa),Bono Navideno,800.0
+Oficina del Alcalde(sa),Relaciones Publicas,10000.0
+Oficina del Alcalde(sa),Festival o Actividad II,67000.0
+Oficina del Alcalde(sa),Empleados Regulares,267180.0
+Oficina del Alcalde(sa),Seguro Choferil,110.0
+Oficina del Alcalde(sa),Seguro Social Federal,21639.0
+Oficina del Alcalde(sa),Plan Medico,21600.0
+Oficina del Alcalde(sa),Beneficio por Fondo del Seguro del Estado,5818.0
+Oficina del Alcalde(sa),Bono Navideno,9600.0
+Oficina del Alcalde(sa),Materiales de Oficina,5000.0
+Oficina del Alcalde(sa),Materiales y Suministros de Operacion,7000.0
+Oficina del Alcalde(sa),Servicios Profesionales - No Clasificados,600300.0
+Oficina del Alcalde(sa),Otros Festivales o Actividades,50000.0
+Oficina del Alcalde(sa),Empleados Regulares,263072.0
+Oficina del Alcalde(sa),Seguro Choferil,22.0
+Oficina del Alcalde(sa),Seguro Social Federal,20742.0
+Oficina del Alcalde(sa),Plan Medico,18000.0
+Oficina del Alcalde(sa),Beneficio por Fondo del Seguro del Estado,5697.0
+Oficina del Alcalde(sa),Bono Navideno,8000.0
+Oficina del Alcalde(sa),Materiales de Oficina,500.0
+Oficina del Alcalde(sa),Gastos de Viaje,3000.0
+Recursos Humanos,Empleados Regulares,267024.0
+Recursos Humanos,Seguro Social Federal,21504.0
+Recursos Humanos,Plan Medico,18000.0
+Recursos Humanos,Beneficio por Fondo del Seguro del Estado,5780.0
+Recursos Humanos,Bono Navideno,8000.0
+Recursos Humanos,Beneficios Marginales,6000.0
+Recursos Humanos,Cuotas y Suscripciones,10350.0
+Recursos Humanos,Empleados Regulares,653124.0
+Recursos Humanos,Seguro Social Federal,54111.0
+Recursos Humanos,Plan Medico,54000.0
+Recursos Humanos,Beneficio por Fondo del Seguro del Estado,14233.0
+Recursos Humanos,Bono Navideno,24000.0
+Recursos Humanos,Beneficios Marginales,30000.0
+Recursos Humanos,Materiales de Oficina,5000.0
+Recursos Humanos,Adiestramientos,10000.0
+Recursos Humanos,Servicios Profesionales - No Clasificados,30850.0
+Recursos Humanos,Pruebas de Dopaje,10000.0
+Recursos Humanos,Mantenimiento de Equipo,370.0
+Auditoria Interna,Empleados Regulares,94884.0
+Auditoria Interna,Seguro Social Federal,7902.0
+Auditoria Interna,Plan Medico,5400.0
+Auditoria Interna,Beneficio por Fondo del Seguro del Estado,2045.0
+Auditoria Interna,Bono Navideno,2400.0
+Auditoria Interna,Beneficios Marginales,6000.0
+Auditoria Interna,Materiales de Oficina,400.0
+Auditoria Interna,Miscelaneos,3600.0
+Auditoria Interna,Empleados Regulares,171192.0
+Auditoria Interna,Seguro Social Federal,13467.0
+Auditoria Interna,Plan Medico,10800.0
+Auditoria Interna,Beneficio por Fondo del Seguro del Estado,3699.0
+Auditoria Interna,Bono Navideno,4800.0
+Auditoria Interna,Cuotas y Suscripciones,1400.0
+Planificacion y Desarrollo,Empleados Regulares,297792.0
+Planificacion y Desarrollo,Seguro Social Federal,23919.0
+Planificacion y Desarrollo,Plan Medico,19800.0
+Planificacion y Desarrollo,Beneficio por Fondo del Seguro del Estado,6444.0
+Planificacion y Desarrollo,Bono Navideno,8800.0
+Planificacion y Desarrollo,Beneficios Marginales,6000.0
+Planificacion y Desarrollo,Materiales de Oficina,1000.0
+Planificacion y Desarrollo,Materiales y Suministros de Operacion,400.0
+Planificacion y Desarrollo,Programas de Computadoras,11200.0
+Planificacion y Desarrollo,Empleados Regulares,119772.0
+Planificacion y Desarrollo,Seguro Social Federal,9409.0
+Planificacion y Desarrollo,Plan Medico,7200.0
+Planificacion y Desarrollo,Beneficio por Fondo del Seguro del Estado,2585.0
+Planificacion y Desarrollo,Bono Navideno,3200.0
+Planificacion y Desarrollo,Empleados Regulares,99600.0
+Planificacion y Desarrollo,Seguro Social Federal,7804.0
+Planificacion y Desarrollo,Plan Medico,5400.0
+Planificacion y Desarrollo,Beneficio por Fondo del Seguro del Estado,2143.0
+Planificacion y Desarrollo,Bono Navideno,2400.0
+Planificacion y Desarrollo,Mantenimiento de Equipo,12800.0
+Planificacion y Desarrollo,Publicaciones y Anuncios,1500.0
+Planificacion y Desarrollo,Empleados Regulares,197808.0
+Planificacion y Desarrollo,Seguro Social Federal,15563.0
+Planificacion y Desarrollo,Plan Medico,12600.0
+Planificacion y Desarrollo,Beneficio por Fondo del Seguro del Estado,4275.0
+Planificacion y Desarrollo,Bono Navideno,5600.0
+Planificacion y Desarrollo,Dietas,6000.0
+Planificacion y Desarrollo,Publicaciones y Anuncios,5500.0
+Control Ambiental,Empleados Regulares,186468.0
+Control Ambiental,Seguro Choferil,66.0
+Control Ambiental,Seguro Social Federal,15157.0
+Control Ambiental,Plan Medico,12600.0
+Control Ambiental,Beneficio por Fondo del Seguro del Estado,12488.0
+Control Ambiental,Bono Navideno,5600.0
+Control Ambiental,Beneficios Marginales,6000.0
+Control Ambiental,Materiales de Oficina,100.0
+Control Ambiental,Servicios Profesionales - No Clasificados,8000.0
+Control Ambiental,Servicios No Profesionales,1000.0
+Control Ambiental,Gastos de Viaje,100.0
+Control Ambiental,Mantenimiento de Edificios,2000.0
+Control Ambiental,Miscelaneos,1175.0
+Control Ambiental,Otros Festivales o Actividades,1250.0
+Oficina de Permisos,Empleados Regulares,146088.0
+Oficina de Permisos,Seguro Choferil,22.0
+Oficina de Permisos,Seguro Social Federal,11944.0
+Oficina de Permisos,Plan Medico,9000.0
+Oficina de Permisos,Beneficio por Fondo del Seguro del Estado,3155.0
+Oficina de Permisos,Bono Navideno,4000.0
+Oficina de Permisos,Beneficios Marginales,6000.0
+Oficina de Permisos,Materiales de Oficina,500.0
+Oficina de Permisos,Materiales y Suministros de Operacion,2000.0
+Oficina de Permisos,Cuotas y Suscripciones,200.0
+Oficina de Permisos,Mantenimiento de Equipo,1000.0
+Oficina de Permisos,Miscelaneos,200.0
+Oficina de Permisos,Empleados Regulares,555192.0
+Oficina de Permisos,Seguro Choferil,88.0
+Oficina de Permisos,Seguro Social Federal,43766.0
+Oficina de Permisos,Plan Medico,37800.0
+Oficina de Permisos,Beneficio por Fondo del Seguro del Estado,12023.0
+Oficina de Permisos,Bono Navideno,16800.0
+Oficina de Permisos,Materiales de Oficina,1000.0
+Oficina de Permisos,Materiales y Suministros de Operacion,500.0
+Oficina de Permisos,Servicios Profesionales - No Clasificados,80500.0
+Oficina de Permisos,Tasaciones,4000.0
+Oficina de Permisos,Cuotas y Suscripciones,1355.0
+Oficina de Permisos,Miscelaneos,700.0
+Oficina de Permisos,Publicaciones y Anuncios,3000.0
+Oficina de Permisos,Empleados Regulares,122928.0
+Oficina de Permisos,Seguro Social Federal,9774.0
+Oficina de Permisos,Plan Medico,10800.0
+Oficina de Permisos,Beneficio por Fondo del Seguro del Estado,2684.0
+Oficina de Permisos,Bono Navideno,4800.0
+Oficina de Permisos,Materiales de Oficina,1000.0
+Oficina de Permisos,Materiales y Suministros de Operacion,300.0
+Oficina de Permisos,Miscelaneos,300.0
+Oficina del Ingeniero Principal,Empleados Regulares,138600.0
+Oficina del Ingeniero Principal,Seguro Social Federal,11310.0
+Oficina del Ingeniero Principal,Plan Medico,7200.0
+Oficina del Ingeniero Principal,Beneficio por Fondo del Seguro del Estado,2979.0
+Oficina del Ingeniero Principal,Bono Navideno,3200.0
+Oficina del Ingeniero Principal,Beneficios Marginales,6000.0
+Oficina del Ingeniero Principal,Materiales y Suministros de Operacion,500.0
+Oficina del Ingeniero Principal,Cuotas y Suscripciones,680.0
+Oficina del Ingeniero Principal,Miscelaneos,200.0
+Oficina del Ingeniero Principal,Empleados Regulares,124368.0
+Oficina del Ingeniero Principal,Seguro Social Federal,9700.0
+Oficina del Ingeniero Principal,Plan Medico,5400.0
+Oficina del Ingeniero Principal,Beneficio por Fondo del Seguro del Estado,2664.0
+Oficina del Ingeniero Principal,Bono Navideno,2400.0
+Oficina del Ingeniero Principal,Gastos de Viaje,2880.0
+Oficina del Ingeniero Principal,Tasaciones,2000.0
+Oficina del Ingeniero Principal,Miscelaneos,200.0
+Oficina del Ingeniero Principal,Publicaciones y Anuncios,1500.0
+Oficina del Ingeniero Principal,Empleados Regulares,350604.0
+Oficina del Ingeniero Principal,Seguro Choferil,220.0
+Oficina del Ingeniero Principal,Seguro Social Federal,28176.0
+Oficina del Ingeniero Principal,Plan Medico,39600.0
+Oficina del Ingeniero Principal,Beneficio por Fondo del Seguro del Estado,7745.0
+Oficina del Ingeniero Principal,Bono Navideno,17600.0
+Oficina del Ingeniero Principal,Materiales y Suministros de Operacion,400.0
+Oficina del Ingeniero Principal,Servicios Profesionales - No Clasificados,41400.0
+Oficina del Ingeniero Principal,Servicios No Profesionales,88800.0
+Oficina del Ingeniero Principal,Publicaciones y Anuncios,500.0
+Oficina del Ingeniero Principal,Empleados Regulares,151632.0
+Oficina del Ingeniero Principal,Seguro Choferil,66.0
+Oficina del Ingeniero Principal,Seguro Social Federal,11969.0
+Oficina del Ingeniero Principal,Plan Medico,10800.0
+Oficina del Ingeniero Principal,Beneficio por Fondo del Seguro del Estado,3290.0
+Oficina del Ingeniero Principal,Bono Navideno,4800.0
+Oficina del Ingeniero Principal,Gastos de Viaje,18000.0
+Oficina del Ingeniero Principal,Miscelaneos,100.0
+Oficina del Asesor Ejecutivo,Empleados Regulares,133056.0
+Oficina del Asesor Ejecutivo,Seguro Social Federal,10885.0
+Oficina del Asesor Ejecutivo,Plan Medico,7200.0
+Oficina del Asesor Ejecutivo,Beneficio por Fondo del Seguro del Estado,2863.0
+Oficina del Asesor Ejecutivo,Bono Navideno,3200.0
+Oficina del Asesor Ejecutivo,Beneficios Marginales,6000.0
+Oficina del Asesor Ejecutivo,Materiales de Oficina,1200.0
+Oficina del Asesor Ejecutivo,Materiales y Suministros de Operacion,350.0
+Oficina del Asesor Ejecutivo,Empleados Regulares,145224.0
+Oficina del Asesor Ejecutivo,Seguro Social Federal,11357.0
+Oficina del Asesor Ejecutivo,Plan Medico,7200.0
+Oficina del Asesor Ejecutivo,Beneficio por Fondo del Seguro del Estado,3120.0
+Oficina del Asesor Ejecutivo,Bono Navideno,3200.0
+Oficina del Asesor Ejecutivo,Servicios No Profesionales,92500.0
+Oficina del Asesor Ejecutivo,Servicios Legales,391000.0
+Oficina del Asesor Ejecutivo,Cuotas y Suscripciones,7500.0
+Oficina del Asesor Ejecutivo,Publicaciones y Anuncios,500.0
+Oficina del Asesor Ejecutivo,Pago de Sentencias y Reclamaciones,35000.0
+Oficina del Asesor Ejecutivo,Empleados Regulares,87996.0
+Oficina del Asesor Ejecutivo,Seguro Social Federal,7375.0
+Oficina del Asesor Ejecutivo,Plan Medico,5400.0
+Oficina del Asesor Ejecutivo,Beneficio por Fondo del Seguro del Estado,1900.0
+Oficina del Asesor Ejecutivo,Bono Navideno,2400.0
+Oficina del Asesor Ejecutivo,Beneficios Marginales,6000.0
+Oficina del Asesor Ejecutivo,Materiales de Oficina,300.0
+Oficina del Asesor Ejecutivo,Cuotas y Suscripciones,900.0
+Finanzas,Empleados Regulares,1382450.0
+Finanzas,Seguro Choferil,88.0
+Finanzas,Seguro Social Federal,110252.0
+Finanzas,Plan Medico,104400.0
+Finanzas,Beneficio por Fondo del Seguro del Estado,52894.0
+Finanzas,Bono Navideno,46400.0
+Finanzas,Beneficios Marginales,12000.0
+Finanzas,Materiales de Oficina,4000.0
+Finanzas,Gastos de Auditoria Sencilla (Single Audit),38000.0
+Finanzas,Cuotas y Suscripciones,1500.0
+Finanzas,Miscelaneos,5000.0
+Finanzas,Vacaciones Acumuladas, Licencia Regular,50000.0
+Finanzas,Seguro Social Federal,38250.0
+Finanzas,Seguro por Desempleo,40000.0
+Finanzas,Energia Electrica,4539644.0
+Finanzas,Canon Excavaciones y Demoliciones,12000.0
+Finanzas,Seguros,1600000.0
+Finanzas,Reclamaciones Anos Anteriores,10000.0
+Finanzas,Aportacion al CRIM,1330511.0
+Finanzas,Liquidacion Deuda del CRIM,332248.0
+Finanzas,Transferencias que Salen,5992848.0
+Secretaria Municipal,Empleados Regulares,205896.0
+Secretaria Municipal,Seguro Social Federal,16765.0
+Secretaria Municipal,Plan Medico,16200.0
+Secretaria Municipal,Beneficio por Fondo del Seguro del Estado,7889.0
+Secretaria Municipal,Bono Navideno,7200.0
+Secretaria Municipal,Beneficios Marginales,6000.0
+Secretaria Municipal,Materiales de Oficina,500.0
+Secretaria Municipal,Empleados Regulares,152148.0
+Secretaria Municipal,Seguro Choferil,22.0
+Secretaria Municipal,Plan Medico,18000.0
+Secretaria Municipal,Beneficio por Fondo del Seguro del Estado,6310.0
+Secretaria Municipal,Bono Navideno,8800.0
+Secretaria Municipal,Empleados Regulares,122940.0
+Secretaria Municipal,Seguro Choferil,44.0
+Secretaria Municipal,Seguro Social Federal,9899.0
+Secretaria Municipal,Plan Medico,14400.0
+Secretaria Municipal,Beneficio por Fondo del Seguro del Estado,4790.0
+Secretaria Municipal,Bono Navideno,6400.0
+Secretaria Municipal,Materiales de Oficina,700.0
+Secretaria Municipal,Renta de Equipos y Vehiculos,1320.0
+Secretaria Municipal,Mantenimiento de Equipo,1868.0
+Secretaria Municipal,Franqueo,25825.0
+Secretaria Municipal,Empleados Regulares,289056.0
+Secretaria Municipal,Empleados Irregulares,22620.0
+Secretaria Municipal,Seguro Choferil,88.0
+Secretaria Municipal,Seguro Social Federal,25137.0
+Secretaria Municipal,Plan Medico,34200.0
+Secretaria Municipal,Beneficio por Fondo del Seguro del Estado,12166.0
+Secretaria Municipal,Bono Navideno,16800.0
+Secretaria Municipal,Materiales de Oficina,100.0
+Secretaria Municipal,Materiales de Mantenimiento,6000.0
+Secretaria Municipal,Materiales y Suministros de Operacion,5000.0
+Secretaria Municipal,Equipo de Mantenimiento,1000.0
+Secretaria Municipal,Servicios No Profesionales,9322.0
+Secretaria Municipal,Gastos de Viaje,8700.0
+Secretaria Municipal,Empleados Regulares,78384.0
+Secretaria Municipal,Seguro Social Federal,6243.0
+Secretaria Municipal,Plan Medico,7200.0
+Secretaria Municipal,Beneficio por Fondo del Seguro del Estado,3020.0
+Secretaria Municipal,Bono Navideno,3200.0
+Secretaria Municipal,Materiales de Oficina,100.0
+Secretaria Municipal,Materiales y Suministros de Operacion,500.0
+Gerencia y Presupuesto,Empleados Regulares,168948.0
+Gerencia y Presupuesto,Seguro Social Federal,13752.0
+Gerencia y Presupuesto,Plan Medico,10800.0
+Gerencia y Presupuesto,Beneficio por Fondo del Seguro del Estado,3648.0
+Gerencia y Presupuesto,Bono Navideno,4800.0
+Gerencia y Presupuesto,Beneficios Marginales,6000.0
+Gerencia y Presupuesto,Materiales de Oficina,700.0
+Gerencia y Presupuesto,Cuotas y Suscripciones,550.0
+Gerencia y Presupuesto,Miscelaneos,1000.0
+Gerencia y Presupuesto,Empleados Regulares,81708.0
+Gerencia y Presupuesto,Seguro Social Federal,6436.0
+Gerencia y Presupuesto,Plan Medico,5400.0
+Gerencia y Presupuesto,Beneficio por Fondo del Seguro del Estado,1768.0
+Gerencia y Presupuesto,Bono Navideno,2400.0
+Centro de Procesamiento de Datos,Empleados Regulares,159996.0
+Centro de Procesamiento de Datos,Seguro Social Federal,13007.0
+Centro de Procesamiento de Datos,Plan Medico,9000.0
+Centro de Procesamiento de Datos,Beneficio por Fondo del Seguro del Estado,6070.0
+Centro de Procesamiento de Datos,Bono Navideno,4000.0
+Centro de Procesamiento de Datos,Beneficios Marginales,6000.0
+Centro de Procesamiento de Datos,Materiales de Oficina,1000.0
+Centro de Procesamiento de Datos,Empleados Regulares,269520.0
+Centro de Procesamiento de Datos,Seguro Choferil,66.0
+Centro de Procesamiento de Datos,Seguro Social Federal,21295.0
+Centro de Procesamiento de Datos,Plan Medico,19800.0
+Centro de Procesamiento de Datos,Beneficio por Fondo del Seguro del Estado,10304.0
+Centro de Procesamiento de Datos,Bono Navideno,8800.0
+Centro de Procesamiento de Datos,Materiales y Suministros de Operacion,2000.0
+Centro de Procesamiento de Datos,Programas de Computadoras,715000.0
+Centro de Procesamiento de Datos,Servicios Profesionales - No Clasificados,405000.0
+Centro de Procesamiento de Datos,Mantenimiento de Equipo,43000.0
+Centro de Procesamiento de Datos,Miscelaneos,500.0
+Centro de Procesamiento de Datos,Telefono y Comunicaciones,783000.0
+Subastas,Empleados Regulares,130452.0
+Subastas,Seguro Social Federal,10685.0
+Subastas,Plan Medico,7200.0
+Subastas,Beneficio por Fondo del Seguro del Estado,4947.0
+Subastas,Bono Navideno,3200.0
+Subastas,Beneficios Marginales,6000.0
+Subastas,Materiales de Oficina,500.0
+Subastas,Materiales y Suministros de Operacion,500.0
+Subastas,Empleados Regulares,33972.0
+Subastas,Seguro Social Federal,2722.0
+Subastas,Plan Medico,3600.0
+Subastas,Beneficio por Fondo del Seguro del Estado,1317.0
+Subastas,Bono Navideno,1600.0
+Subastas,Materiales de Oficina,200.0
+Subastas,Dietas,1600.0
+Subastas,Miscelaneos,300.0
+Subastas,Publicaciones y Anuncios,8500.0
+Subastas,Empleados Regulares,75264.0
+Subastas,Seguro Social Federal,6004.0
+Subastas,Plan Medico,7200.0
+Subastas,Beneficio por Fondo del Seguro del Estado,2905.0
+Subastas,Bono Navideno,3200.0
+Subastas,Materiales de Oficina,300.0
+Subastas,Acueducto y Alcantarillados,1900000.0
+Subastas,Compra de Equipos,100.0
+Subastas,Cuotas y Suscripciones,1500.0
+Subastas,Renta de Equipos y Vehiculos,218551.0
+Subastas,Mantenimiento de Equipo,300.0
+Secretaria de Administracion,Empleados Regulares,144576.0
+Secretaria de Administracion,Seguro Social Federal,11704.0
+Secretaria de Administracion,Plan Medico,5400.0
+Secretaria de Administracion,Beneficio por Fondo del Seguro del Estado,5439.0
+Secretaria de Administracion,Bono Navideno,2400.0
+Secretaria de Administracion,Beneficios Marginales,6000.0
+Secretaria de Administracion,Materiales de Oficina,500.0
+Obras Publicas,Empleados Regulares,156672.0
+Obras Publicas,Seguro Social Federal,12355.0
+Obras Publicas,Plan Medico,10800.0
+Obras Publicas,Beneficio por Fondo del Seguro del Estado,10499.0
+Obras Publicas,Bono Navideno,4800.0
+Obras Publicas,Empleados Regulares,83916.0
+Obras Publicas,Seguro Social Federal,8809.0
+Obras Publicas,Plan Medico,7200.0
+Obras Publicas,Beneficio por Fondo del Seguro del Estado,7485.0
+Obras Publicas,Bono Navideno,4800.0
+Obras Publicas,Materiales de Construccion,100.0
+Obras Publicas,Empleados Regulares,534408.0
+Obras Publicas,Empleados Irregulares,93730.0
+Obras Publicas,Seguro Choferil,374.0
+Obras Publicas,Seguro Social Federal,50397.0
+Obras Publicas,Plan Medico,55800.0
+Obras Publicas,Beneficio por Fondo del Seguro del Estado,42820.0
+Obras Publicas,Bono Navideno,30400.0
+Obras Publicas,Equipo de Mantenimiento,3000.0
+Obras Publicas,Costos de Construccion,100.0
+Obras Publicas,Renta de Equipos y Vehiculos,6800.0
+Obras Publicas,Reparacion y Mantenimiento de Estructuras,100.0
+Obras Publicas,Empleados Regulares,81216.0
+Obras Publicas,Seguro Choferil,44.0
+Obras Publicas,Seguro Social Federal,6521.0
+Obras Publicas,Plan Medico,9000.0
+Obras Publicas,Beneficio por Fondo del Seguro del Estado,5541.0
+Obras Publicas,Bono Navideno,4000.0
+Obras Publicas,Materiales y Suministros de Operacion,100.0
+Obras Publicas,Equipo de Mantenimiento,100.0
+Obras Publicas,Renta de Equipos y Vehiculos,20400.0
+Sanidad o Saneamiento,Empleados Regulares,180888.0
+Sanidad o Saneamiento,Seguro Choferil,44.0
+Sanidad o Saneamiento,Seguro Social Federal,14852.0
+Sanidad o Saneamiento,Plan Medico,16200.0
+Sanidad o Saneamiento,Beneficio por Fondo del Seguro del Estado,12228.0
+Sanidad o Saneamiento,Bono Navideno,7200.0
+Sanidad o Saneamiento,Beneficios Marginales,6000.0
+Sanidad o Saneamiento,Empleados Regulares,825552.0
+Sanidad o Saneamiento,Empleados Irregulares,152922.0
+Sanidad o Saneamiento,Seguro Choferil,242.0
+Sanidad o Saneamiento,Seguro Social Federal,79105.0
+Sanidad o Saneamiento,Plan Medico,102600.0
+Sanidad o Saneamiento,Beneficio por Fondo del Seguro del Estado,67223.0
+Sanidad o Saneamiento,Bono Navideno,55200.0
+Sanidad o Saneamiento,Servicios No Profesionales,228000.0
+Sanidad o Saneamiento,Renta de Equipos y Vehiculos,3000.0
+Sanidad o Saneamiento,Disposicion de Desperdicios,8672435.0
+Sanidad o Saneamiento,Empleados Regulares,404196.0
+Sanidad o Saneamiento,Empleados Irregulares,26390.0
+Sanidad o Saneamiento,Seguro Choferil,198.0
+Sanidad o Saneamiento,Seguro Social Federal,34664.0
+Sanidad o Saneamiento,Plan Medico,46800.0
+Sanidad o Saneamiento,Beneficio por Fondo del Seguro del Estado,29460.0
+Sanidad o Saneamiento,Bono Navideno,22400.0
+Sanidad o Saneamiento,Materiales de Oficina,3000.0
+Sanidad o Saneamiento,Materiales de Mantenimiento,1500.0
+Sanidad o Saneamiento,Servicios No Profesionales,11000.0
+Sanidad o Saneamiento,Cuotas y Suscripciones,250.0
+Sanidad o Saneamiento,Mantenimiento de Equipo,500.0
+Conservacion y Ornato,Empleados Regulares,168024.0
+Conservacion y Ornato,Seguro Social Federal,13684.0
+Conservacion y Ornato,Plan Medico,10800.0
+Conservacion y Ornato,Beneficio por Fondo del Seguro del Estado,11236.0
+Conservacion y Ornato,Bono Navideno,4800.0
+Conservacion y Ornato,Beneficios Marginales,6000.0
+Conservacion y Ornato,Miscelaneos,1000.0
+Conservacion y Ornato,Empleados Regulares,153660.0
+Conservacion y Ornato,Empleados Irregulares,26390.0
+Conservacion y Ornato,Seguro Choferil,66.0
+Conservacion y Ornato,Seguro Social Federal,14514.0
+Conservacion y Ornato,Plan Medico,18000.0
+Conservacion y Ornato,Beneficio por Fondo del Seguro del Estado,12332.0
+Conservacion y Ornato,Bono Navideno,9600.0
+Conservacion y Ornato,Materiales y Suministros de Operacion,3000.0
+Conservacion y Ornato,Empleados Regulares,855540.0
+Conservacion y Ornato,Empleados Irregulares,52780.0
+Conservacion y Ornato,Seguro Choferil,528.0
+Conservacion y Ornato,Seguro Social Federal,73243.0
+Conservacion y Ornato,Plan Medico,102600.0
+Conservacion y Ornato,Beneficio por Fondo del Seguro del Estado,62239.0
+Conservacion y Ornato,Bono Navideno,48800.0
+Conservacion y Ornato,Equipo de Mantenimiento,2500.0
+Conservacion y Ornato,Compra de Equipos,25000.0
+Conservacion y Ornato,Servicios Profesionales - No Clasificados,3600.0
+Secretaria de Infraestructura, Ornato y Conservacion,Empleados Regulares,503808.0
+Secretaria de Infraestructura, Ornato y Conservacion,Seguro Choferil,44.0
+Secretaria de Infraestructura, Ornato y Conservacion,Seguro Social Federal,40817.0
+Secretaria de Infraestructura, Ornato y Conservacion,Plan Medico,39600.0
+Secretaria de Infraestructura, Ornato y Conservacion,Beneficio por Fondo del Seguro del Estado,33900.0
+Secretaria de Infraestructura, Ornato y Conservacion,Bono Navideno,17600.0
+Secretaria de Infraestructura, Ornato y Conservacion,Beneficios Marginales,12000.0
+Secretaria de Infraestructura, Ornato y Conservacion,Materiales de Oficina,3000.0
+Secretaria de Infraestructura, Ornato y Conservacion,Materiales de Mantenimiento,3000.0
+Secretaria de Infraestructura, Ornato y Conservacion,Materiales y Suministros de Operacion,3000.0
+Secretaria de Infraestructura, Ornato y Conservacion,Miscelaneos,1000.0
+Secretaria de Infraestructura, Ornato y Conservacion,Empleados Regulares,149508.0
+Secretaria de Infraestructura, Ornato y Conservacion,Seguro Choferil,44.0
+Secretaria de Infraestructura, Ornato y Conservacion,Seguro Social Federal,11868.0
+Secretaria de Infraestructura, Ornato y Conservacion,Plan Medico,12600.0
+Secretaria de Infraestructura, Ornato y Conservacion,Beneficio por Fondo del Seguro del Estado,10086.0
+Secretaria de Infraestructura, Ornato y Conservacion,Bono Navideno,5600.0
+Secretaria de Infraestructura, Ornato y Conservacion,Combustible y Lubricantes,670000.0
+Secretaria de Infraestructura, Ornato y Conservacion,Mantenimiento de Vehiculos,1560138.0
+Conservacion de Edificios y Estructuras Municipales,Empleados Regulares,307140.0
+Conservacion de Edificios y Estructuras Municipales,Seguro Social Federal,24756.0
+Conservacion de Edificios y Estructuras Municipales,Plan Medico,23400.0
+Conservacion de Edificios y Estructuras Municipales,Beneficio por Fondo del Seguro del Estado,6677.0
+Conservacion de Edificios y Estructuras Municipales,Bono Navideno,10400.0
+Conservacion de Edificios y Estructuras Municipales,Beneficios Marginales,6000.0
+Conservacion de Edificios y Estructuras Municipales,Herramientas,500.0
+Conservacion de Edificios y Estructuras Municipales,Mantenimiento de Equipo,20000.0
+Conservacion de Edificios y Estructuras Municipales,Miscelaneos,1000.0
+Conservacion de Edificios y Estructuras Municipales,Empleados Regulares,388932.0
+Conservacion de Edificios y Estructuras Municipales,Seguro Choferil,242.0
+Conservacion de Edificios y Estructuras Municipales,Seguro Social Federal,32304.0
+Conservacion de Edificios y Estructuras Municipales,Plan Medico,43200.0
+Conservacion de Edificios y Estructuras Municipales,Beneficio por Fondo del Seguro del Estado,8880.0
+Conservacion de Edificios y Estructuras Municipales,Bono Navideno,20000.0
+Conservacion de Edificios y Estructuras Municipales,Reparacion y Mantenimiento de Estructuras,500.0
+Conservacion de Edificios y Estructuras Municipales,Empleados Regulares,230136.0
+Conservacion de Edificios y Estructuras Municipales,Seguro Choferil,66.0
+Conservacion de Edificios y Estructuras Municipales,Seguro Social Federal,18529.0
+Conservacion de Edificios y Estructuras Municipales,Plan Medico,27000.0
+Conservacion de Edificios y Estructuras Municipales,Beneficio por Fondo del Seguro del Estado,5092.0
+Conservacion de Edificios y Estructuras Municipales,Bono Navideno,12000.0
+Conservacion de Edificios y Estructuras Municipales,Renta de Equipos y Vehiculos,15000.0
+Recreacion y Deportes,Empleados Regulares,252204.0
+Recreacion y Deportes,Seguro Choferil,44.0
+Recreacion y Deportes,Seguro Social Federal,20432.0
+Recreacion y Deportes,Plan Medico,19800.0
+Recreacion y Deportes,Beneficio por Fondo del Seguro del Estado,9664.0
+Recreacion y Deportes,Bono Navideno,8800.0
+Recreacion y Deportes,Beneficios Marginales,6000.0
+Recreacion y Deportes,Materiales de Oficina,1000.0
+Recreacion y Deportes,Empleados Regulares,211368.0
+Recreacion y Deportes,Empleados Irregulares,26390.0
+Recreacion y Deportes,Seguro Choferil,66.0
+Recreacion y Deportes,Seguro Social Federal,18990.0
+Recreacion y Deportes,Plan Medico,19800.0
+Recreacion y Deportes,Beneficio por Fondo del Seguro del Estado,9188.0
+Recreacion y Deportes,Bono Navideno,10400.0
+Recreacion y Deportes,Materiales de Mantenimiento,1600.0
+Recreacion y Deportes,Servicios Profesionales - No Clasificados,100000.0
+Recreacion y Deportes,Miscelaneos,300.0
+Recreacion y Deportes,Festival o Actividad III,262000.0
+Recreacion y Deportes,Empleados Regulares,375120.0
+Recreacion y Deportes,Empleados Irregulares,130212.0
+Recreacion y Deportes,Seguro Choferil,88.0
+Recreacion y Deportes,Seguro Social Federal,40691.0
+Recreacion y Deportes,Plan Medico,41400.0
+Recreacion y Deportes,Beneficio por Fondo del Seguro del Estado,19691.0
+Recreacion y Deportes,Bono Navideno,26400.0
+Recreacion y Deportes,Materiales de Mantenimiento,3000.0
+Recreacion y Deportes,Materiales y Suministros de Operacion,2000.0
+Recreacion y Deportes,Equipo de Mantenimiento,1500.0
+Recreacion y Deportes,Servicios No Profesionales,119875.0
+Recreacion y Deportes,Renta de Equipos y Vehiculos,500.0
+Recreacion y Deportes,Mantenimiento de Equipo,1000.0
+Recreacion y Deportes,Mantenimiento de Edificios,30000.0
+Cultura y Turismo,Empleados Regulares,286056.0
+Cultura y Turismo,Seguro Choferil,22.0
+Cultura y Turismo,Seguro Social Federal,24215.0
+Cultura y Turismo,Plan Medico,23400.0
+Cultura y Turismo,Beneficio por Fondo del Seguro del Estado,6528.0
+Cultura y Turismo,Bono Navideno,11200.0
+Cultura y Turismo,Beneficios Marginales,6000.0
+Cultura y Turismo,Materiales de Oficina,500.0
+Cultura y Turismo,Empleados Regulares,355860.0
+Cultura y Turismo,Empleados Irregulares,48771.0
+Cultura y Turismo,Seguro Social Federal,32251.0
+Cultura y Turismo,Plan Medico,30600.0
+Cultura y Turismo,Beneficio por Fondo del Seguro del Estado,8864.0
+Cultura y Turismo,Bono Navideno,16800.0
+Cultura y Turismo,Materiales de Oficina,1000.0
+Cultura y Turismo,Materiales de Mantenimiento,1500.0
+Cultura y Turismo,Materiales y Suministros de Operacion,3000.0
+Cultura y Turismo,Servicios Profesionales - No Clasificados,373732.0
+Cultura y Turismo,Mantenimiento de Equipo,300.0
+Cultura y Turismo,Festival o Actividad I,221500.0
+Cultura y Turismo,Empleados Regulares,392040.0
+Cultura y Turismo,Empleados Irregulares,65975.0
+Cultura y Turismo,Seguro Social Federal,36706.0
+Cultura y Turismo,Plan Medico,36000.0
+Cultura y Turismo,Beneficio por Fondo del Seguro del Estado,10088.0
+Cultura y Turismo,Bono Navideno,21600.0
+Cultura y Turismo,Materiales de Mantenimiento,1000.0
+Cultura y Turismo,Renta de Edificios, Locales y Terrenos,24000.0
+Cultura y Turismo,Mantenimiento de Equipo,300.0
+Cultura y Turismo,Otros Festivales o Actividades,124400.0
+Asuntos del Ciudadano,Empleados Regulares,217524.0
+Asuntos del Ciudadano,Seguro Social Federal,17716.0
+Asuntos del Ciudadano,Plan Medico,18000.0
+Asuntos del Ciudadano,Beneficio por Fondo del Seguro del Estado,7559.0
+Asuntos del Ciudadano,Bono Navideno,8000.0
+Asuntos del Ciudadano,Beneficios Marginales,6000.0
+Asuntos del Ciudadano,Materiales de Oficina,2000.0
+Asuntos del Ciudadano,Empleados Regulares,98328.0
+Asuntos del Ciudadano,Seguro Choferil,88.0
+Asuntos del Ciudadano,Seguro Social Federal,7892.0
+Asuntos del Ciudadano,Plan Medico,10800.0
+Asuntos del Ciudadano,Beneficio por Fondo del Seguro del Estado,3457.0
+Asuntos del Ciudadano,Bono Navideno,4800.0
+Asuntos del Ciudadano,Empleados Regulares,423120.0
+Asuntos del Ciudadano,Empleados Irregulares,131950.0
+Asuntos del Ciudadano,Seguro Choferil,198.0
+Asuntos del Ciudadano,Seguro Social Federal,44563.0
+Asuntos del Ciudadano,Plan Medico,41400.0
+Asuntos del Ciudadano,Beneficio por Fondo del Seguro del Estado,19519.0
+Asuntos del Ciudadano,Bono Navideno,27200.0
+Asuntos del Ciudadano,Alimentos,100000.0
+Asuntos del Ciudadano,Materiales y Suministros de Operacion,10000.0
+Asuntos del Ciudadano,Compra de Equipos,5000.0
+Asuntos del Ciudadano,Servicios Profesionales - No Clasificados,244775.0
+Asuntos del Ciudadano,Servicios No Profesionales,160175.0
+Asuntos del Ciudadano,Mantenimiento de Edificios,3000.0
+Asuntos del Ciudadano,Empleados Regulares,82500.0
+Asuntos del Ciudadano,Empleados Irregulares,13195.0
+Asuntos del Ciudadano,Seguro Social Federal,7629.0
+Asuntos del Ciudadano,Plan Medico,7200.0
+Asuntos del Ciudadano,Beneficio por Fondo del Seguro del Estado,3341.0
+Asuntos del Ciudadano,Bono Navideno,4000.0
+Asuntos del Ciudadano,Materiales y Suministros de Operacion,1000.0
+Asuntos del Ciudadano,Donaciones,25000.0
+Asuntos del Ciudadano,Empleados Regulares,25404.0
+Asuntos del Ciudadano,Seguro Social Federal,3076.0
+Asuntos del Ciudadano,Plan Medico,1800.0
+Asuntos del Ciudadano,Beneficio por Fondo del Seguro del Estado,1347.0
+Asuntos del Ciudadano,Bono Navideno,1600.0
+Asuntos del Ciudadano,Servicios No Profesionales,56000.0
+Asuntos del Ciudadano,Mantenimiento de Edificios,1000.0
+Vivienda,Empleados Regulares,431088.0
+Vivienda,Seguro Choferil,22.0
+Vivienda,Seguro Social Federal,34362.0
+Vivienda,Plan Medico,27000.0
+Vivienda,Beneficio por Fondo del Seguro del Estado,9312.0
+Vivienda,Bono Navideno,12000.0
+Vivienda,Renta de Edificios, Locales y Terrenos,45611.0
+Vivienda,Empleados Regulares,74064.0
+Vivienda,Seguro Choferil,66.0
+Vivienda,Seguro Social Federal,5913.0
+Vivienda,Plan Medico,7200.0
+Vivienda,Beneficio por Fondo del Seguro del Estado,1625.0
+Vivienda,Bono Navideno,3200.0
+Vivienda,Empleados Regulares,18732.0
+Vivienda,Seguro Social Federal,1495.0
+Vivienda,Plan Medico,1800.0
+Vivienda,Beneficio por Fondo del Seguro del Estado,411.0
+Vivienda,Bono Navideno,800.0
+Vivienda,Empleados Regulares,128040.0
+Vivienda,Seguro Choferil,44.0
+Vivienda,Seguro Social Federal,10227.0
+Vivienda,Plan Medico,12600.0
+Vivienda,Beneficio por Fondo del Seguro del Estado,2811.0
+Vivienda,Bono Navideno,5600.0
+Educacion,Empleados Regulares,158568.0
+Educacion,Seguro Social Federal,12897.0
+Educacion,Plan Medico,9000.0
+Educacion,Beneficio por Fondo del Seguro del Estado,2766.0
+Educacion,Bono Navideno,4000.0
+Educacion,Beneficios Marginales,6000.0
+Educacion,Materiales de Oficina,200.0
+Educacion,Miscelaneos,400.0
+Educacion,Empleados Regulares,52452.0
+Educacion,Seguro Social Federal,4136.0
+Educacion,Plan Medico,3600.0
+Educacion,Beneficio por Fondo del Seguro del Estado,920.0
+Educacion,Bono Navideno,1600.0
+Educacion,Materiales de Oficina,150.0
+Educacion,Materiales y Suministros de Operacion,1500.0
+Educacion,Servicios No Profesionales,2250.0
+Educacion,#N/A,690000.0
+Educacion,Becas,25000.0
+Educacion,Renta de Edificios, Locales y Terrenos,36000.0
+Educacion,Otros Festivales o Actividades,8000.0
+Educacion,Gastos de Transportacion a Estudiantes,201705.0
+Educacion,Empleados Regulares,186924.0
+Educacion,Plan Medico,18000.0
+Educacion,Beneficio por Fondo del Seguro del Estado,3317.0
+Educacion,Bono Navideno,8000.0
+Educacion,Materiales de Oficina,400.0
+Educacion,Materiales de Mantenimiento,400.0
+Educacion,Telefono y Comunicaciones,11000.0
+Educacion,Mantenimiento de Biblioteca,450.0
+Educacion,Servicios Profesionales - No Clasificados,59500.0
+Educacion,Servicios No Profesionales,37250.0
+Educacion,Mantenimiento de Equipo,1000.0
+Servicios Humanos Institucionales,Empleados Regulares,241248.0
+Servicios Humanos Institucionales,Seguro Social Federal,19656.0
+Servicios Humanos Institucionales,Plan Medico,21600.0
+Servicios Humanos Institucionales,Beneficio por Fondo del Seguro del Estado,5275.0
+Servicios Humanos Institucionales,Bono Navideno,9600.0
+Servicios Humanos Institucionales,Beneficios Marginales,6000.0
+Desarrollo Social y Participacion Ciudadana,Empleados Regulares,182064.0
+Desarrollo Social y Participacion Ciudadana,Seguro Choferil,22.0
+Desarrollo Social y Participacion Ciudadana,Seguro Social Federal,14881.0
+Desarrollo Social y Participacion Ciudadana,Plan Medico,14400.0
+Desarrollo Social y Participacion Ciudadana,Beneficio por Fondo del Seguro del Estado,3963.0
+Desarrollo Social y Participacion Ciudadana,Bono Navideno,6400.0
+Desarrollo Social y Participacion Ciudadana,Beneficios Marginales,6000.0
+Desarrollo Social y Participacion Ciudadana,Materiales de Oficina,1000.0
+Desarrollo Social y Participacion Ciudadana,Materiales y Suministros de Operacion,2000.0
+Desarrollo Social y Participacion Ciudadana,Publicaciones y Anuncios,500.0
+Desarrollo Social y Participacion Ciudadana,Materiales de Oficina,1000.0
+Desarrollo Social y Participacion Ciudadana,Materiales y Suministros de Operacion,500.0
+Desarrollo Social y Participacion Ciudadana,Empleados Regulares,247644.0
+Desarrollo Social y Participacion Ciudadana,Seguro Choferil,176.0
+Desarrollo Social y Participacion Ciudadana,Seguro Social Federal,19622.0
+Desarrollo Social y Participacion Ciudadana,Plan Medico,19800.0
+Desarrollo Social y Participacion Ciudadana,Beneficio por Fondo del Seguro del Estado,5391.0
+Desarrollo Social y Participacion Ciudadana,Bono Navideno,8800.0
+Desarrollo Social y Participacion Ciudadana,Gastos de Viaje,17280.0
+Desarrollo Social y Participacion Ciudadana,Donaciones,10000.0
+Desarrollo Social y Participacion Ciudadana,Festival o Actividad I,14000.0
+Secretaria de Desarrollo Social,Empleados Regulares,306852.0
+Secretaria de Desarrollo Social,Seguro Social Federal,24552.0
+Secretaria de Desarrollo Social,Plan Medico,18000.0
+Secretaria de Desarrollo Social,Beneficio por Fondo del Seguro del Estado,6618.0
+Secretaria de Desarrollo Social,Bono Navideno,8000.0
+Secretaria de Desarrollo Social,Beneficios Marginales,6000.0
+Secretaria de Desarrollo Social,Materiales de Oficina,1000.0
+Secretaria de Desarrollo Social,Miscelaneos,1000.0
+Secretaria de Desarrollo Social,Empleados Regulares,45768.0
+Secretaria de Desarrollo Social,Empleados Irregulares,26390.0
+Secretaria de Desarrollo Social,Seguro Social Federal,5767.0
+Secretaria de Desarrollo Social,Plan Medico,3600.0
+Secretaria de Desarrollo Social,Beneficio por Fondo del Seguro del Estado,1584.0
+Secretaria de Desarrollo Social,Bono Navideno,3200.0
+Secretaria de Desarrollo Social,#N/A,15000.0
+Secretaria de Desarrollo Social,Materiales y Suministros de Operacion,500.0
+Secretaria de Desarrollo Social,Servicios Profesionales - No Clasificados,141000.0
+Secretaria de Desarrollo Social,Renta de Edificios, Locales y Terrenos,10000.0
+Desarrollo Economico,Empleados Regulares,411108.0
+Desarrollo Economico,Seguro Choferil,44.0
+Desarrollo Economico,Seguro Social Federal,33629.0
+Desarrollo Economico,Plan Medico,23400.0
+Desarrollo Economico,Beneficio por Fondo del Seguro del Estado,8860.0
+Desarrollo Economico,Bono Navideno,10400.0
+Desarrollo Economico,Beneficios Marginales,18000.0
+Desarrollo Economico,Materiales de Oficina,800.0
+Desarrollo Economico,Materiales de Mantenimiento,200.0
+Desarrollo Economico,Materiales y Suministros de Operacion,100.0
+Desarrollo Economico,Servicios Profesionales - No Clasificados,15000.0
+Desarrollo Economico,Cuotas y Suscripciones,1000.0
+Desarrollo Economico,Empleados Regulares,13428.0
+Desarrollo Economico,Seguro Social Federal,1089.0
+Desarrollo Economico,Plan Medico,1800.0
+Desarrollo Economico,Beneficio por Fondo del Seguro del Estado,299.0
+Desarrollo Economico,Bono Navideno,800.0
+Desarrollo Economico,Empleados Regulares,186744.0
+Desarrollo Economico,Seguro Social Federal,15299.0
+Desarrollo Economico,Plan Medico,16200.0
+Desarrollo Economico,Beneficio por Fondo del Seguro del Estado,4078.0
+Desarrollo Economico,Bono Navideno,7200.0
+Desarrollo Economico,Empleados Regulares,125784.0
+Desarrollo Economico,Seguro Choferil,66.0
+Desarrollo Economico,Plan Medico,9000.0
+Desarrollo Economico,Beneficio por Fondo del Seguro del Estado,3021.0
+Desarrollo Economico,Bono Navideno,4800.0
+Desarrollo Economico,Materiales de Oficina,350.0
+Desarrollo Economico,Materiales de Mantenimiento,300.0
+Desarrollo Economico,Materiales y Suministros de Operacion,300.0
+Desarrollo Economico,Renta de Edificios, Locales y Terrenos,36000.0
+Desarrollo Economico,Publicaciones y Anuncios,1200.0
+Desarrollo Economico,Festival o Actividad I,9000.0
+Desarrollo Economico,Empleados Regulares,112344.0
+Desarrollo Economico,Seguro Social Federal,9300.0
+Desarrollo Economico,Plan Medico,7200.0
+Desarrollo Economico,Beneficio por Fondo del Seguro del Estado,2428.0
+Desarrollo Economico,Bono Navideno,3200.0
+Desarrollo Economico,Materiales de Oficina,300.0
+Desarrollo Economico,Materiales de Mantenimiento,100.0
+Desarrollo Economico,Materiales y Suministros de Operacion,200.0
+Desarrollo Economico,Servicios Profesionales - No Clasificados,60950.0
+Desarrollo Economico,#N/A,500000.0
+Desarrollo Economico,Renta de Edificios, Locales y Terrenos,36000.0
+Desarrollo Economico,Publicaciones y Anuncios,700.0
+Desarrollo Economico,Empleados Regulares,37404.0
+Desarrollo Economico,Seguro Social Federal,2923.0
+Desarrollo Economico,Plan Medico,1800.0
+Desarrollo Economico,Beneficio por Fondo del Seguro del Estado,803.0
+Desarrollo Economico,Bono Navideno,800.0
+Desarrollo Economico,Cuotas y Suscripciones,500.0
+Oficina Municipal Manejo de Emergencias,Empleados Regulares,264204.0
+Oficina Municipal Manejo de Emergencias,Seguro Choferil,44.0
+Oficina Municipal Manejo de Emergencias,Seguro Social Federal,20891.0
+Oficina Municipal Manejo de Emergencias,Plan Medico,19800.0
+Oficina Municipal Manejo de Emergencias,Beneficio por Fondo del Seguro del Estado,5739.0
+Oficina Municipal Manejo de Emergencias,Bono Navideno,8800.0
+Oficina Municipal Manejo de Emergencias,Materiales de Oficina,2000.0
+Oficina Municipal Manejo de Emergencias,Materiales de Mantenimiento,1000.0
+Oficina Municipal Manejo de Emergencias,Compra de Uniformes,10000.0
+Oficina Municipal Manejo de Emergencias,Empleados Regulares,790380.0
+Oficina Municipal Manejo de Emergencias,Seguro Choferil,660.0
+Oficina Municipal Manejo de Emergencias,Seguro Social Federal,63058.0
+Oficina Municipal Manejo de Emergencias,Plan Medico,75600.0
+Oficina Municipal Manejo de Emergencias,Beneficio por Fondo del Seguro del Estado,17325.0
+Oficina Municipal Manejo de Emergencias,Bono Navideno,33600.0
+Oficina Municipal Manejo de Emergencias,Materiales de Oficina,950.0
+Oficina Municipal Manejo de Emergencias,Materiales de Mantenimiento,400.0
+Oficina Municipal Manejo de Emergencias,Combustible y Lubricantes,500.0
+Oficina Municipal Manejo de Emergencias,Telefono y Comunicaciones,1200.0
+Oficina Municipal Manejo de Emergencias,Materiales y Suministros de Operacion,10000.0
+Oficina Municipal Manejo de Emergencias,Equipo de Mantenimiento,1000.0
+Oficina Municipal Manejo de Emergencias,Compra de Equipos,1000.0
+Oficina Municipal Manejo de Emergencias,Servicios No Profesionales,38000.0
+Oficina Municipal Manejo de Emergencias,Renta de Equipos y Vehiculos,1000.0
+Oficina Municipal Manejo de Emergencias,Mantenimiento de Equipo,2000.0
+Oficina Municipal Manejo de Emergencias,Mantenimiento de Edificios,500.0
+Oficina Municipal Manejo de Emergencias,Otros Festivales o Actividades,2000.0
+Guardia Municipal,Empleados Regulares,431508.0
+Guardia Municipal,Seguro Choferil,22.0
+Guardia Municipal,Seguro Social Federal,34703.0
+Guardia Municipal,Plan Medico,36000.0
+Guardia Municipal,Beneficio por Fondo del Seguro del Estado,19701.0
+Guardia Municipal,Bono Navideno,16000.0
+Guardia Municipal,Beneficios Marginales,6000.0
+Guardia Municipal,Materiales de Oficina,1000.0
+Guardia Municipal,Materiales de Mantenimiento,2000.0
+Guardia Municipal,Gastos de Viaje,500.0
+Guardia Municipal,Mantenimiento de Equipo,200.0
+Guardia Municipal,Empleados Regulares,89640.0
+Guardia Municipal,Seguro Choferil,44.0
+Guardia Municipal,Seguro Social Federal,7043.0
+Guardia Municipal,Plan Medico,5400.0
+Guardia Municipal,Beneficio por Fondo del Seguro del Estado,4051.0
+Guardia Municipal,Bono Navideno,2400.0
+Guardia Municipal,Materiales de Oficina,1000.0
+Guardia Municipal,Miscelaneos,1000.0
+Guardia Municipal,Empleados Regulares,3554172.0
+Guardia Municipal,Seguro Choferil,2706.0
+Guardia Municipal,Seguro Social Federal,280569.0
+Guardia Municipal,Plan Medico,252000.0
+Guardia Municipal,Beneficio por Fondo del Seguro del Estado,161371.0
+Guardia Municipal,Bono Navideno,112000.0
+Guardia Municipal,Materiales de Oficina,4000.0
+Guardia Municipal,Compra de Uniformes,10000.0
+Guardia Municipal,Materiales y Suministros de Operacion,8000.0
+Guardia Municipal,Compra de Equipos,8000.0
+Guardia Municipal,Servicios Profesionales - No Clasificados,36000.0
+Guardia Municipal,Servicios No Profesionales,905232.0
+Oficina del Alcalde(sa),Empleados Regulares,129744.0
+Oficina del Alcalde(sa),Seguro Social Federal,11028.0
+Oficina del Alcalde(sa),Plan Medico,5400.0
+Oficina del Alcalde(sa),Beneficio por Fondo del Seguro del Estado,2777.0
+Oficina del Alcalde(sa),Bono Navideno,2400.0
+Oficina del Alcalde(sa),Beneficios Marginales,12000.0
+Oficina del Alcalde(sa),Materiales de Oficina,450.0
+Oficina del Alcalde(sa),Servicios No Profesionales,3000.0
+Subastas,Empleados Regulares,40692.0
+Subastas,Seguro Social Federal,3175.0
+Subastas,Plan Medico,1800.0
+Subastas,Beneficio por Fondo del Seguro del Estado,1536.0
+Subastas,Bono Navideno,800.0
+Obras Publicas,Empleados Irregulares,26390.0
+Obras Publicas,Seguro Choferil,66.0
+Sanidad o Saneamiento,Equipo de Mantenimiento,4000.0
+Conservacion de Edificios y Estructuras Municipales,Empleados Irregulares,13195.0
+Oficina del Ingeniero Principal,Renta de Equipos y Vehiculos,3000.0
+Oficina Municipal Manejo de Emergencias,Servicios Profesionales - No Clasificados,75613.0
+Guardia Municipal,Adiestramientos,12000.0
+Cultura y Turismo,Seguro Choferil,22.0
+Asuntos del Ciudadano,Empleados Irregulares,13195.0
+Desarrollo Economico,Empleados Irregulares,13195.0
+Subastas,Equipo de Oficina,100.0
+Obras Publicas,Materiales de Construccion,378272.0
+Obras Publicas,Materiales y Suministros de Operacion,5940.0
+Obras Publicas,Servicios Profesionales - No Clasificados,4000.0
+Sanidad o Saneamiento,Materiales y Suministros de Operacion,30000.0
+Sanidad o Saneamiento,Disposicion de Desperdicios,245200.0
+Conservacion y Ornato,Materiales y Suministros de Operacion,60000.0
+Conservacion y Ornato,Servicios No Profesionales,1772000.0
+Conservacion de Edificios y Estructuras Municipales,Mantenimiento de Edificios,400000.0
+Asuntos del Ciudadano,Seguro Choferil,22.0
+Educacion,Empleados Regulares,29424.0
+Educacion,Seguro Choferil,22.0
+Educacion,Seguro Social Federal,2313.0
+Educacion,Plan Medico,1800.0
+Educacion,Beneficio por Fondo del Seguro del Estado,514.0
+Educacion,Bono Navideno,800.0
+Secretaria Municipal,Empleados Irregulares,9425.0
+Educacion,Seguro Choferil,22.0
+Educacion,Seguro Social Federal,14917.0
+Desarrollo Economico,Seguro Social Federal,11002.0
+Desarrollo Economico,#N/A,182300.0
+Oficina del Alcalde(sa),Publicaciones y Anuncios,100000.0
+Recursos Humanos,Gastos de Viaje,2160.0
+Vivienda,Beneficios Marginales,6000.0
+Desarrollo Economico,Seguro Choferil,22.0
+Desarrollo Economico,Beneficios Marginales,6000.0
+Desarrollo Economico,Beneficios Marginales,6000.0
+Secretaria de Administracion,Miscelaneos,250.0
+Educacion,Sistema de Retiro,4675.0
+Secretaria Municipal,Seguro Social Federal,13039.0
+Legislatura Municipal,Servicios Profesionales - No Clasificados,107300.0
+Oficina del Alcalde(sa),Equipo de Oficina,25256.0
+Oficina del Alcalde(sa),Servicios Profesionales - No Clasificados,118320.0
+Oficina del Alcalde(sa),Otros Festivales o Actividades,10000.0
+Oficina del Alcalde(sa),Adiestramientos,2475.0
+Oficina del Alcalde(sa),Gastos de Viaje,2000.0
+Oficina del Alcalde(sa),Beneficios Marginales,6000.0
+Oficina del Alcalde(sa),Empleados Regulares,72252.0
+Oficina del Alcalde(sa),Seguro Choferil,22.0
+Oficina del Alcalde(sa),Seguro Social Federal,5713.0
+Oficina del Alcalde(sa),Plan Medico,5400.0
+Oficina del Alcalde(sa),Beneficio por Fondo del Seguro del Estado,1569.0
+Oficina del Alcalde(sa),Bono Navideno,2400.0
+Oficina del Alcalde(sa),Gastos de Viaje,3600.0
+Oficina del Alcalde(sa),Otros Festivales o Actividades,5000.0
+Legislatura Municipal,Otros Festivales o Actividades,20000.0
+Recursos Humanos,Servicios Profesionales - No Clasificados,75000.0
+Recursos Humanos,Cuotas y Suscripciones,2160.0
+Recursos Humanos,Compra de Uniformes,30000.0
+Auditoria Interna,Compra de Equipos,1000.0
+Auditoria Interna,Gastos de Viaje,100.0
+Planificacion y Desarrollo,Servicios Profesionales - No Clasificados,18000.0
+Finanzas,Vacaciones Acumuladas, Licencia Enfermedad,450000.0
+Finanzas,Deficit,98272.0
+Secretaria Municipal,Materiales de Oficina,100.0
+Secretaria Municipal,Servicios Profesionales - No Clasificados,24000.0
+Secretaria Municipal,Miscelaneos,500.0
+Secretaria Municipal,Cuotas y Suscripciones,50.0
+Secretaria Municipal,Equipo de Oficina,100.0
+Secretaria Municipal,Compra de Equipos,200.0
+Secretaria Municipal,Mantenimiento de Edificios,500.0
+Secretaria de Administracion,Empleados Regulares,91584.0
+Secretaria de Administracion,Seguro Social Federal,7253.0
+Secretaria de Administracion,Plan Medico,7200.0
+Secretaria de Administracion,Beneficio por Fondo del Seguro del Estado,3509.0
+Secretaria de Administracion,Bono Navideno,3200.0
+Secretaria de Administracion,Programas de Computadoras,76416.0
+Obras Publicas,Gastos de Viaje,3600.0
+Obras Publicas,Mantenimiento de Equipo,500.0
+Obras Publicas,Materiales de Construccion,15000.0
+Obras Publicas,Materiales y Suministros de Operacion,31428.0
+Obras Publicas,Servicios No Profesionales,62400.0
+Obras Publicas,Gastos de Viaje,3600.0
+Obras Publicas,Cuotas y Suscripciones,400.0
+Secretaria de Infraestructura, Ornato y Conservacion,Servicios Profesionales - No Clasificados,22992.0
+Secretaria de Infraestructura, Ornato y Conservacion,Materiales y Suministros de Operacion,16000.0
+Oficina del Ingeniero Principal,Servicios de Ingenieria y Arquitectura,1000.0
+Recreacion y Deportes,Donaciones,173000.0
+Cultura y Turismo,Empleados Irregulares,13195.0
+Cultura y Turismo,Seguro Choferil,22.0
+Asuntos del Ciudadano,Donaciones,25000.0
+Educacion,Servicios Profesionales - No Clasificados,50000.0
+Educacion,Donaciones,25000.0
+Educacion,Gastos de Viaje,1500.0
+Educacion,Servicios Profesionales - No Clasificados,13000.0
+Educacion,Otros Festivales o Actividades,1000.0
+Desarrollo Social y Participacion Ciudadana,Servicios Profesionales - No Clasificados,14400.0
+Secretaria de Desarrollo Social,Otros Festivales o Actividades,3000.0
+Secretaria de Desarrollo Social,Servicios Profesionales - No Clasificados,35000.0
+Desarrollo Economico,Renta de Edificios, Locales y Terrenos,40000.0
+Oficina Municipal Manejo de Emergencias,Servicios Profesionales - No Clasificados,30000.0
+Finanzas,Aportacion al Fondo de Equiparacion,9142250.0

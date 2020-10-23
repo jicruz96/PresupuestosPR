@@ -1,0 +1,258 @@
+departamento,gasto,monto
+Legislatura Municipal,Empleados Regulares,163752.0
+Legislatura Municipal,Seguro Social Federal,12527.0
+Legislatura Municipal,Plan Medico,10080.0
+Legislatura Municipal,Materiales de Oficina,1500.0
+Legislatura Municipal,Materiales de Mantenimiento,600.0
+Legislatura Municipal,Materiales y Suministros de Operacion,500.0
+Legislatura Municipal,Equipo de Oficina,500.0
+Legislatura Municipal,Programas de Computadoras,40.0
+Legislatura Municipal,Dietas,60000.0
+Legislatura Municipal,Adiestramientos,200.0
+Legislatura Municipal,Mantenimiento de Biblioteca,40.0
+Legislatura Municipal,Servicios Profesionales - No Clasificados,32470.0
+Legislatura Municipal,Relaciones Publicas,2500.0
+Legislatura Municipal,Cuotas y Suscripciones,4000.0
+Legislatura Municipal,Renta de Equipos y Vehiculos,3700.0
+Legislatura Municipal,Mantenimiento de Equipo,150.0
+Legislatura Municipal,Mantenimiento de Vehiculos,1200.0
+Legislatura Municipal,Miscelaneos,2000.0
+Legislatura Municipal,Publicaciones y Anuncios,75.0
+Oficina del Alcalde(sa),Empleados Regulares,516564.0
+Oficina del Alcalde(sa),Seguro Social Federal,39518.0
+Oficina del Alcalde(sa),Plan Medico,18480.0
+Oficina del Alcalde(sa),Materiales de Oficina,1600.0
+Oficina del Alcalde(sa),Materiales y Suministros de Operacion,2400.0
+Oficina del Alcalde(sa),Compra de Equipos,1600.0
+Oficina del Alcalde(sa),Servicios Profesionales - No Clasificados,152160.0
+Oficina del Alcalde(sa),Relaciones Publicas,35000.0
+Oficina del Alcalde(sa),Gastos de Viaje,4000.0
+Oficina del Alcalde(sa),Cuotas y Suscripciones,21000.0
+Oficina del Alcalde(sa),Donaciones,50000.0
+Oficina del Alcalde(sa),Miscelaneos,320.0
+Oficina del Alcalde(sa),Empleados Regulares,60156.0
+Oficina del Alcalde(sa),Seguro Social Federal,4602.0
+Oficina del Alcalde(sa),Plan Medico,3360.0
+Oficina del Alcalde(sa),Materiales y Suministros de Operacion,800.0
+Oficina del Alcalde(sa),Compra de Equipos,3000.0
+Oficina del Alcalde(sa),Servicios Profesionales - No Clasificados,12000.0
+Oficina del Alcalde(sa),Relaciones Publicas,22980.0
+Oficina del Alcalde(sa),Publicaciones y Anuncios,2220.0
+Oficina del Alcalde(sa),Empleados Regulares,41892.0
+Oficina del Alcalde(sa),Seguro Social Federal,3205.0
+Oficina del Alcalde(sa),Plan Medico,1680.0
+Oficina del Alcalde(sa),Materiales y Suministros de Operacion,1000.0
+Oficina del Alcalde(sa),Programas de Computadoras,12000.0
+Oficina del Alcalde(sa),Compra de Equipos,5000.0
+Oficina del Alcalde(sa),Empleados Regulares,24312.0
+Oficina del Alcalde(sa),Seguro Social Federal,1860.0
+Oficina del Alcalde(sa),Plan Medico,1680.0
+Oficina del Alcalde(sa),Alimentos,256.0
+Oficina del Alcalde(sa),Materiales y Suministros de Operacion,1248.0
+Finanzas,Empleados Regulares,557592.0
+Finanzas,Seguro Social Federal,42656.0
+Finanzas,Plan Medico,33600.0
+Finanzas,Materiales de Oficina,1500.0
+Finanzas,Energia Electrica,1028958.0
+Finanzas,Acueducto y Alcantarillados,850000.0
+Finanzas,Telefono y Comunicaciones,90000.0
+Finanzas,Materiales y Suministros de Operacion,30000.0
+Finanzas,Compra de Equipos,2000.0
+Finanzas,Gastos Cobro IVU,10000.0
+Finanzas,Gastos de Auditoria Sencilla (Single Audit),35000.0
+Finanzas,Servicios Profesionales - No Clasificados,222000.0
+Finanzas,Canon Excavaciones y Demoliciones,8000.0
+Finanzas,Seguros,940000.0
+Finanzas,Renta de Equipos y Vehiculos,130000.0
+Finanzas,Intereses,288400.0
+Finanzas,Amortizacion de Principal de Prestamos,150000.0
+Finanzas,Deficit,87648.0
+Finanzas,Intereses Cuentas Vendidas,68523.0
+Finanzas,Mantenimiento de Equipo,2000.0
+Finanzas,Miscelaneos,8000.0
+Finanzas,Pago de Sentencias y Reclamaciones,500.0
+Finanzas,Reclamaciones Anos Anteriores,3000.0
+Finanzas,Reserva,80000.0
+Finanzas,Aportacion al Fondo de Equiparacion,1909444.0
+Finanzas,Aportacion al CRIM,360907.0
+Finanzas,Liquidacion Deuda del CRIM,1427936.0
+Finanzas,Empleados Regulares,68184.0
+Finanzas,Seguro Social Federal,5217.0
+Finanzas,Plan Medico,5040.0
+Finanzas,Materiales de Oficina,800.0
+Finanzas,Materiales de Mantenimiento,300.0
+Finanzas,Materiales y Suministros de Operacion,800.0
+Finanzas,Compra de Equipos,600.0
+Finanzas,Mantenimiento de Equipo,600.0
+Finanzas,Mantenimiento de Edificios,600.0
+Finanzas,Miscelaneos,240.0
+Finanzas,Materiales de Oficina,1500.0
+Finanzas,Materiales y Suministros de Operacion,1500.0
+Finanzas,Servicios Profesionales - No Clasificados,27720.0
+Obras Publicas,Empleados Regulares,668604.0
+Obras Publicas,Seguro Social Federal,51149.0
+Obras Publicas,Plan Medico,63840.0
+Obras Publicas,Materiales de Oficina,800.0
+Obras Publicas,Herramientas,800.0
+Obras Publicas,Compra de Uniformes,8000.0
+Obras Publicas,Materiales de Construccion,50400.0
+Obras Publicas,Materiales y Suministros de Operacion,30000.0
+Obras Publicas,Compra de Equipos,10000.0
+Obras Publicas,Renta de Equipos y Vehiculos,20000.0
+Obras Publicas,Mantenimiento de Equipo,14500.0
+Obras Publicas,Reparacion y Mantenimiento de Estructuras,42000.0
+Obras Publicas,Mantenimiento de Edificios,42000.0
+Obras Publicas,Combustible y Lubricantes,260000.0
+Obras Publicas,Seguros,12144.0
+Obras Publicas,Mantenimiento de Vehiculos,125000.0
+Obras Publicas,Empleados Regulares,270756.0
+Obras Publicas,Seguro Social Federal,20713.0
+Obras Publicas,Plan Medico,31920.0
+Obras Publicas,Materiales de Construccion,24000.0
+Obras Publicas,Materiales y Suministros de Operacion,375000.0
+Obras Publicas,Compra de Equipos,800.0
+Obras Publicas,Renta de Equipos y Vehiculos,800.0
+Obras Publicas,Mantenimiento de Equipo,4480.0
+Recursos Humanos,Empleados Regulares,268368.0
+Recursos Humanos,Empleados Transitorios,2940000.0
+Recursos Humanos,Vacaciones Acumuladas, Licencia Regular,60000.0
+Recursos Humanos,Vacaciones Acumuladas, Licencia Enfermedad,50000.0
+Recursos Humanos,Seguro Choferil,3868.0
+Recursos Humanos,Seguro Social Federal,274511.0
+Recursos Humanos,Plan Medico,253000.0
+Recursos Humanos,Seguro por Desempleo,100000.0
+Recursos Humanos,Beneficio por Fondo del Seguro del Estado,458722.0
+Recursos Humanos,Bono Navideno,216000.0
+Recursos Humanos,Materiales de Oficina,1200.0
+Recursos Humanos,Materiales y Suministros de Operacion,3100.0
+Recursos Humanos,Compra de Equipos,1000.0
+Recursos Humanos,Adiestramientos,6400.0
+Recursos Humanos,Servicios Profesionales - No Clasificados,14220.0
+Recursos Humanos,Pruebas de Dopaje,3456.0
+Recursos Humanos,Mantenimiento de Equipo,2000.0
+Recursos Humanos,Miscelaneos,500.0
+Recursos Humanos,Pago de Sentencias y Reclamaciones,150000.0
+Recursos Humanos,Reserva,30000.0
+Recreacion y Deportes,Empleados Regulares,174060.0
+Recreacion y Deportes,Seguro Social Federal,13316.0
+Recreacion y Deportes,Plan Medico,13440.0
+Recreacion y Deportes,Materiales de Oficina,1000.0
+Recreacion y Deportes,Alimentos,1000.0
+Recreacion y Deportes,Materiales y Suministros de Operacion,25000.0
+Recreacion y Deportes,Compra de Equipos,2000.0
+Recreacion y Deportes,Servicios Profesionales - No Clasificados,40000.0
+Recreacion y Deportes,Materiales de Oficina,1000.0
+Recreacion y Deportes,Materiales y Suministros de Operacion,15000.0
+Recreacion y Deportes,Compra de Equipos,5000.0
+Recreacion y Deportes,Renta de Equipos y Vehiculos,400.0
+Recreacion y Deportes,Mantenimiento de Equipo,1000.0
+Sanidad o Saneamiento,Disposicion de Desperdicios,2805069.0
+Centro de Envejecientes,Empleados Regulares,239050.0
+Centro de Envejecientes,Seguro Choferil,240.0
+Centro de Envejecientes,Seguro Social Federal,18288.0
+Centro de Envejecientes,Plan Medico,30240.0
+Centro de Envejecientes,Seguro por Desempleo,3229.0
+Centro de Envejecientes,Materiales de Oficina,400.0
+Centro de Envejecientes,Materiales y Suministros de Operacion,8000.0
+Centro de Envejecientes,Compra de Equipos,800.0
+Centro de Envejecientes,Miscelaneos,240.0
+Centro de Envejecientes,Alimentos,100000.0
+Centro de Envejecientes,Compra de Uniformes,900.0
+Centro de Envejecientes,Servicios Profesionales - No Clasificados,22800.0
+Aportaciones Federales,Empleados Regulares,233748.0
+Aportaciones Federales,Seguro Social Federal,17882.0
+Aportaciones Federales,Plan Medico,13440.0
+Aportaciones Federales,Materiales de Oficina,550.0
+Aportaciones Federales,Materiales y Suministros de Operacion,550.0
+Aportaciones Federales,Servicios Profesionales - No Clasificados,8000.0
+Aportaciones Federales,Mantenimiento de Equipo,700.0
+Cultura y Turismo,Empleados Regulares,115404.0
+Cultura y Turismo,Seguro Social Federal,8829.0
+Cultura y Turismo,Plan Medico,8400.0
+Cultura y Turismo,Materiales de Oficina,1120.0
+Cultura y Turismo,Materiales y Suministros de Operacion,1600.0
+Cultura y Turismo,Compra de Equipos,1600.0
+Cultura y Turismo,Renta de Edificios, Locales y Terrenos,36100.0
+Cultura y Turismo,Festival o Actividad I,50000.0
+Cultura y Turismo,Empleados Regulares,191460.0
+Cultura y Turismo,Seguro Social Federal,14647.0
+Cultura y Turismo,Plan Medico,16800.0
+Cultura y Turismo,Materiales de Oficina,1696.0
+Cultura y Turismo,Materiales y Suministros de Operacion,1500.0
+Cultura y Turismo,Compra de Equipos,1600.0
+Cultura y Turismo,Mantenimiento de Biblioteca,10000.0
+Cultura y Turismo,Miscelaneos,794.0
+Cultura y Turismo,Materiales y Suministros de Operacion,1600.0
+Cultura y Turismo,Compra de Equipos,3200.0
+Cultura y Turismo,Servicios Profesionales - No Clasificados,90000.0
+Asuntos del Ciudadano,Empleados Regulares,156120.0
+Asuntos del Ciudadano,Seguro Social Federal,11944.0
+Asuntos del Ciudadano,Plan Medico,11760.0
+Asuntos del Ciudadano,Drogas, Medicinas y Otros Suministros,4000.0
+Asuntos del Ciudadano,Donaciones,16000.0
+Asuntos del Ciudadano,Materiales de Oficina,1200.0
+Asuntos del Ciudadano,Alimentos,600.0
+Asuntos del Ciudadano,Materiales y Suministros de Operacion,1200.0
+Asuntos del Ciudadano,Compra de Equipos,1000.0
+Asuntos del Ciudadano,Empleados Regulares,37848.0
+Asuntos del Ciudadano,Seguro Social Federal,2896.0
+Asuntos del Ciudadano,Plan Medico,3360.0
+Asuntos del Ciudadano,Materiales de Oficina,480.0
+Asuntos del Ciudadano,Alimentos,720.0
+Asuntos del Ciudadano,Compra de Uniformes,720.0
+Asuntos del Ciudadano,Materiales y Suministros de Operacion,4000.0
+Asuntos del Ciudadano,Compra de Equipos,500.0
+Asuntos del Ciudadano,Mantenimiento de Equipo,160.0
+Asuntos del Ciudadano,Miscelaneos,100.0
+Asuntos del Ciudadano,Donaciones,8000.0
+Vivienda,Empleados Regulares,51828.0
+Vivienda,Seguro Social Federal,3965.0
+Vivienda,Plan Medico,5040.0
+Secretaria Municipal,Empleados Regulares,142188.0
+Secretaria Municipal,Seguro Social Federal,10878.0
+Secretaria Municipal,Plan Medico,11760.0
+Secretaria Municipal,Materiales de Oficina,400.0
+Secretaria Municipal,Materiales y Suministros de Operacion,3000.0
+Secretaria Municipal,Compra de Equipos,3000.0
+Secretaria Municipal,Dietas,3000.0
+Secretaria Municipal,Renta de Edificios, Locales y Terrenos,11520.0
+Secretaria Municipal,Miscelaneos,200.0
+Secretaria Municipal,Publicaciones y Anuncios,20000.0
+Secretaria Municipal,Empleados Regulares,21276.0
+Secretaria Municipal,Seguro Social Federal,1628.0
+Secretaria Municipal,Plan Medico,1680.0
+Secretaria Municipal,Materiales de Oficina,320.0
+Secretaria Municipal,Materiales y Suministros de Operacion,320.0
+Secretaria Municipal,Franqueo,20000.0
+Asuntos Legales,Empleados Regulares,142332.0
+Asuntos Legales,Seguro Social Federal,10889.0
+Asuntos Legales,Plan Medico,5040.0
+Asuntos Legales,Materiales de Oficina,640.0
+Asuntos Legales,Materiales y Suministros de Operacion,480.0
+Asuntos Legales,Servicios Legales,124800.0
+Asuntos Legales,Cuotas y Suscripciones,5000.0
+Asuntos Legales,Empleados Regulares,66048.0
+Asuntos Legales,Seguro Social Federal,5053.0
+Asuntos Legales,Plan Medico,3360.0
+Asuntos Legales,Alimentos,400.0
+Asuntos Legales,Adiestramientos,800.0
+Asuntos Legales,Miscelaneos,400.0
+Asuntos Legales,Publicaciones y Anuncios,5000.0
+Auditoria Interna,Empleados Regulares,68664.0
+Auditoria Interna,Seguro Social Federal,5253.0
+Auditoria Interna,Plan Medico,3360.0
+Auditoria Interna,Materiales de Oficina,480.0
+Auditoria Interna,Compra de Equipos,1200.0
+Auditoria Interna,Mantenimiento de Biblioteca,160.0
+Auditoria Interna,Servicios Profesionales - No Clasificados,2460.0
+Auditoria Interna,Cuotas y Suscripciones,225.0
+Planificacion y Desarrollo,Empleados Regulares,86880.0
+Planificacion y Desarrollo,Seguro Social Federal,6647.0
+Planificacion y Desarrollo,Plan Medico,5040.0
+Planificacion y Desarrollo,Materiales de Oficina,900.0
+Planificacion y Desarrollo,Alimentos,250.0
+Planificacion y Desarrollo,Materiales y Suministros de Operacion,1500.0
+Planificacion y Desarrollo,Compra de Equipos,3500.0
+Planificacion y Desarrollo,Mantenimiento de Biblioteca,128.0
+Planificacion y Desarrollo,Servicios Profesionales - No Clasificados,172000.0
+Planificacion y Desarrollo,Mantenimiento de Equipo,904.0

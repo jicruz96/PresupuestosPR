@@ -1,0 +1,585 @@
+departamento,gasto,monto
+Legislatura Municipal,Empleados Regulares,83532.0
+Legislatura Municipal,Seguro Social Federal,6573.8
+Legislatura Municipal,Plan Medico,6120.0
+Legislatura Municipal,Bono Navideno,2400.0
+Legislatura Municipal,Materiales de Oficina,25.0
+Legislatura Municipal,Alimentos,500.0
+Legislatura Municipal,Materiales y Suministros de Operacion,1000.0
+Legislatura Municipal,Compra de Equipos,25.0
+Legislatura Municipal,Dietas,105000.0
+Legislatura Municipal,Adiestramientos,25.0
+Legislatura Municipal,Servicios Profesionales - No Clasificados,15000.0
+Legislatura Municipal,Relaciones Publicas,25.0
+Legislatura Municipal,Gastos de Viaje,25.0
+Legislatura Municipal,Servicios Legales,32560.0
+Legislatura Municipal,Cuotas y Suscripciones,25.0
+Legislatura Municipal,Mantenimiento de Equipo,25.0
+Legislatura Municipal,Miscelaneos,1900.0
+Oficina del Alcalde(sa),Empleados Regulares,1200.0
+Oficina del Alcalde(sa),Seguro Social Federal,91.8
+Oficina del Alcalde(sa),Materiales y Suministros de Operacion,25.0
+Oficina del Alcalde(sa),Gastos de Viaje,10000.0
+Oficina del Alcalde(sa),Cuotas y Suscripciones,500.0
+Oficina del Alcalde(sa),Miscelaneos,250.0
+Asuntos del Ciudadano,Empleados Regulares,161664.0
+Asuntos del Ciudadano,Seguro Social Federal,12795.7
+Asuntos del Ciudadano,Plan Medico,14280.0
+Asuntos del Ciudadano,Bono Navideno,5600.0
+Asuntos del Ciudadano,Materiales y Suministros de Operacion,2000.0
+Asuntos del Ciudadano,Equipo Medico,5000.0
+Asuntos del Ciudadano,Servicios Profesionales - No Clasificados,60000.0
+Asuntos del Ciudadano,Donaciones,225000.0
+Asuntos del Ciudadano,Miscelaneos,25.0
+Asuntos Legales,Empleados Regulares,1800.0
+Asuntos Legales,Seguro Social Federal,137.7
+Asuntos Legales,Materiales y Suministros de Operacion,250.0
+Asuntos Legales,Compra de Equipos,25.0
+Asuntos Legales,Mantenimiento de Biblioteca,50.0
+Asuntos Legales,Servicios Legales,669000.0
+Asuntos Legales,Cuotas y Suscripciones,25.0
+Asuntos Legales,Miscelaneos,25.0
+Asuntos Legales,Pago de Sentencias y Reclamaciones,40000.0
+Auditoria Interna,Empleados Regulares,192528.0
+Auditoria Interna,Seguro Social Federal,15034.39
+Auditoria Interna,Plan Medico,10200.0
+Auditoria Interna,Bono Navideno,4000.0
+Auditoria Interna,Materiales y Suministros de Operacion,25.0
+Auditoria Interna,Equipo de Oficina,450.0
+Auditoria Interna,Servicios Profesionales - No Clasificados,150324.0
+Auditoria Interna,Cuotas y Suscripciones,1400.0
+Relaciones Publicas,Empleados Regulares,170772.0
+Relaciones Publicas,Seguro Social Federal,13492.46
+Relaciones Publicas,Plan Medico,14280.0
+Relaciones Publicas,Bono Navideno,5600.0
+Relaciones Publicas,Alimentos,110000.0
+Relaciones Publicas,Telefono y Comunicaciones,2500.0
+Relaciones Publicas,Materiales y Suministros de Operacion,25.0
+Relaciones Publicas,Compra de Equipos,25.0
+Relaciones Publicas,Servicios Profesionales - No Clasificados,157000.0
+Relaciones Publicas,Relaciones Publicas,80000.0
+Relaciones Publicas,Cuotas y Suscripciones,725.0
+Relaciones Publicas,Renta de Equipos y Vehiculos,30000.0
+Relaciones Publicas,Mantenimiento de Equipo,25.0
+Relaciones Publicas,Miscelaneos,15000.0
+Relaciones Publicas,Festival o Actividad I,100000.0
+Finanzas,Empleados Regulares,666216.0
+Finanzas,Seguro Choferil,5000.0
+Finanzas,Seguro Social Federal,52679.12
+Finanzas,Plan Medico,57120.0
+Finanzas,Seguro por Desempleo,41250.0
+Finanzas,Beneficio por Fondo del Seguro del Estado,1707979.1
+Finanzas,Bono Navideno,22400.0
+Finanzas,Energia Electrica,5136773.76
+Finanzas,Acueducto y Alcantarillados,3980000.0
+Finanzas,Telefono y Comunicaciones,500000.0
+Finanzas,Materiales y Suministros de Operacion,10000.0
+Finanzas,Equipo de Oficina,50.0
+Finanzas,Compra de Terrenos,50.0
+Finanzas,Gastos de Auditoria Sencilla (Single Audit),80000.0
+Finanzas,Renta de Edificios, Locales y Terrenos,100000.0
+Finanzas,Servicios Profesionales - No Clasificados,1701650.0
+Finanzas,Tasaciones,75000.0
+Finanzas,Canon Excavaciones y Demoliciones,12000.0
+Finanzas,Seguros,3700000.0
+Finanzas,Intereses Cuentas Vendidas,138039.97
+Finanzas,Asistencia Compra y Ventas (Subsidio) (Homebuyers),90000.0
+Finanzas,Miscelaneos,18000.0
+Finanzas,Reclamaciones Anos Anteriores,5000.0
+Finanzas,Aportacion al CRIM,2085888.0
+Finanzas,Liquidacion Deuda del CRIM,156780.0
+Finanzas,Transferencias que Salen,17000.0
+Finanzas,Transferencias que Salen,30000.0
+Finanzas,Transferencias que Salen,80000.0
+Finanzas,Transferencias que Salen,80000.0
+Finanzas,Transferencias que Salen,2803888.0
+Finanzas,Transferencias que Salen,65055.0
+Recursos Humanos,Empleados Regulares,181860.0
+Recursos Humanos,Vacaciones Acumuladas, Licencia Regular,100000.0
+Recursos Humanos,Vacaciones Acumuladas, Licencia Enfermedad,100000.0
+Recursos Humanos,Seguro Social Federal,33083.19
+Recursos Humanos,Plan Medico,14280.0
+Recursos Humanos,Bono Navideno,5600.0
+Recursos Humanos,Beneficios Marginales,100000.0
+Recursos Humanos,Beneficios Marginales,45000.0
+Recursos Humanos,Materiales y Suministros de Operacion,25.0
+Recursos Humanos,Equipo de Oficina,25.0
+Recursos Humanos,Adiestramientos,10000.0
+Recursos Humanos,Servicios Profesionales - No Clasificados,27400.0
+Recursos Humanos,Servicios Legales,220000.0
+Recursos Humanos,Pruebas de Dopaje,4000.0
+Recursos Humanos,Mantenimiento de Equipo,112000.0
+Recursos Humanos,Miscelaneos,15000.0
+Secretaria Municipal,Empleados Regulares,275574.24
+Secretaria Municipal,Seguro Social Federal,21877.03
+Secretaria Municipal,Plan Medico,26520.0
+Secretaria Municipal,Bono Navideno,10400.0
+Secretaria Municipal,Materiales y Suministros de Operacion,30000.0
+Secretaria Municipal,Equipo de Oficina,25.0
+Secretaria Municipal,Dietas,3000.0
+Secretaria Municipal,Renta de Equipos y Vehiculos,25.0
+Secretaria Municipal,Miscelaneos,8000.0
+Secretaria Municipal,Franqueo,60000.0
+Compras y Suministros,Empleados Regulares,55800.0
+Compras y Suministros,Seguro Social Federal,4329.9
+Compras y Suministros,Plan Medico,2040.0
+Compras y Suministros,Bono Navideno,800.0
+Compras y Suministros,Materiales de Oficina,55000.0
+Compras y Suministros,Materiales de Mantenimiento,55000.0
+Compras y Suministros,Materiales de Construccion,50000.0
+Compras y Suministros,Compra de Equipos,25.0
+Compras y Suministros,Servicios de Ingenieria y Arquitectura,50000.0
+Compras y Suministros,Renta de Equipos y Vehiculos,388269.0
+Compras y Suministros,Mantenimiento de Equipo,660188.0
+Compras y Suministros,Mantenimiento de Edificios,35270.0
+Compras y Suministros,Miscelaneos,24320.0
+Compras y Suministros,Empleados Regulares,1254240.0
+Compras y Suministros,Empleados Transitorios,16900000.0
+Compras y Suministros,Empleados Irregulares,110351.0
+Compras y Suministros,Seguro Social Federal,1458686.01
+Compras y Suministros,Plan Medico,467160.0
+Compras y Suministros,Bono Navideno,803200.0
+Cultura y Turismo,Empleados Regulares,85752.0
+Cultura y Turismo,Seguro Social Federal,6743.63
+Cultura y Turismo,Plan Medico,6120.0
+Cultura y Turismo,Bono Navideno,2400.0
+Cultura y Turismo,Materiales y Suministros de Operacion,5000.0
+Cultura y Turismo,Compra de Equipos,25.0
+Cultura y Turismo,Servicios Profesionales - No Clasificados,213353.4
+Cultura y Turismo,Adquisicion y/o Restauracion de Obras de Arte,2500.0
+Cultura y Turismo,Reparacion y Mantenimiento de Estructuras,25.0
+Cultura y Turismo,Miscelaneos,25.0
+Cultura y Turismo,Festival o Actividad I,25.0
+Cultura y Turismo,Empleados Regulares,600.0
+Cultura y Turismo,Seguro Social Federal,45.9
+Cultura y Turismo,Empleados Regulares,600.0
+Cultura y Turismo,Seguro Social Federal,45.9
+Cultura y Turismo,Materiales y Suministros de Operacion,1000.0
+Cultura y Turismo,Compra de Equipos,2000.0
+Cultura y Turismo,Servicios Profesionales - No Clasificados,52788.0
+Cultura y Turismo,Mantenimiento de Equipo,25.0
+Cultura y Turismo,Otros Festivales o Actividades,25.0
+Cultura y Turismo,Miscelaneos,2000.0
+Empresas Municipales,Empleados Regulares,205488.0
+Empresas Municipales,Seguro Social Federal,16331.83
+Empresas Municipales,Plan Medico,20400.0
+Empresas Municipales,Bono Navideno,8000.0
+Empresas Municipales,Materiales y Suministros de Operacion,10000.0
+Empresas Municipales,Compra de Equipos,25.0
+Empresas Municipales,Servicios Profesionales - No Clasificados,585020.04
+Empresas Municipales,Relaciones Publicas,25.0
+Empresas Municipales,Gastos de Viaje,5000.0
+Empresas Municipales,Renta de Equipos y Vehiculos,25.0
+Empresas Municipales,Mantenimiento de Equipo,5000.0
+Empresas Municipales,Mantenimiento de Edificios,25000.0
+Empresas Municipales,Miscelaneos,30000.0
+Empresas Municipales,Adquisicion Animales y efectos asociados,100000.0
+Empresas Municipales,Empleados Regulares,239364.0
+Empresas Municipales,Seguro Social Federal,18984.55
+Empresas Municipales,Plan Medico,22440.0
+Empresas Municipales,Bono Navideno,8800.0
+Empresas Municipales,Materiales de Mantenimiento,40000.0
+Empresas Municipales,Alimentos,25.0
+Empresas Municipales,Materiales de Construccion,30000.0
+Empresas Municipales,Materiales y Suministros de Operacion,15000.0
+Empresas Municipales,Compra de Equipos,30000.0
+Empresas Municipales,Servicios Profesionales - No Clasificados,223797.0
+Empresas Municipales,Relaciones Publicas,800.0
+Empresas Municipales,Donaciones,50000.0
+Empresas Municipales,Renta de Equipos y Vehiculos,25.0
+Empresas Municipales,Mantenimiento de Equipo,25440.0
+Empresas Municipales,Reparacion y Mantenimiento de Estructuras,125000.0
+Empresas Municipales,Miscelaneos,10000.0
+Transportacion y Mantenimiento,Empleados Regulares,231552.0
+Transportacion y Mantenimiento,Seguro Social Federal,18386.93
+Transportacion y Mantenimiento,Plan Medico,22440.0
+Transportacion y Mantenimiento,Bono Navideno,8800.0
+Transportacion y Mantenimiento,Herramientas,5000.0
+Transportacion y Mantenimiento,Combustible y Lubricantes,650000.0
+Transportacion y Mantenimiento,Materiales y Suministros de Operacion,1000.0
+Transportacion y Mantenimiento,Equipo de Oficina,200.0
+Transportacion y Mantenimiento,Seguros,28000.0
+Transportacion y Mantenimiento,Renta de Equipos y Vehiculos,2600000.0
+Transportacion y Mantenimiento,Mantenimiento de Equipo,500000.0
+Transportacion y Mantenimiento,Mantenimiento de Vehiculos,100000.0
+Transportacion y Mantenimiento,Miscelaneos,1000.0
+Control Ambiental,Empleados Regulares,18852.0
+Control Ambiental,Seguro Social Federal,1503.38
+Control Ambiental,Plan Medico,2040.0
+Control Ambiental,Bono Navideno,800.0
+Control Ambiental,Materiales de Construccion,10000.0
+Control Ambiental,Equipo de Oficina,10000.0
+Control Ambiental,Empleados Regulares,105900.0
+Control Ambiental,Seguro Social Federal,8468.55
+Control Ambiental,Plan Medico,12240.0
+Control Ambiental,Bono Navideno,4800.0
+Control Ambiental,Materiales de Mantenimiento,15000.0
+Control Ambiental,Equipo de Mantenimiento,25.0
+Control Ambiental,Servicios Profesionales - No Clasificados,188334.0
+Control Ambiental,Renta de Equipos y Vehiculos,2021280.0
+Control Ambiental,Miscelaneos,30000.0
+Control Ambiental,Disposicion de Desperdicios,12416798.76
+Obras Publicas,Empleados Regulares,115032.0
+Obras Publicas,Seguro Social Federal,8983.55
+Obras Publicas,Plan Medico,6120.0
+Obras Publicas,Bono Navideno,2400.0
+Obras Publicas,Materiales y Suministros de Operacion,25.0
+Obras Publicas,Equipo de Oficina,25.0
+Obras Publicas,Servicios Profesionales - No Clasificados,15000.0
+Obras Publicas,Servicios de Ingenieria y Arquitectura,25.0
+Obras Publicas,Inspeccion de Edificios y Construcciones,25.0
+Obras Publicas,Mantenimiento de Equipo,2500.0
+Obras Publicas,Miscelaneos,1000.0
+Obras Publicas,Empleados Regulares,48422.4
+Obras Publicas,Seguro Social Federal,3887.91
+Obras Publicas,Plan Medico,6120.0
+Obras Publicas,Bono Navideno,2400.0
+Obras Publicas,Materiales y Suministros de Operacion,5000.0
+Obras Publicas,Compra de Equipos,500.0
+Obras Publicas,Empleados Regulares,458405.28
+Obras Publicas,Seguro Social Federal,36659.2
+Obras Publicas,Plan Medico,53040.0
+Obras Publicas,Bono Navideno,20800.0
+Obras Publicas,Materiales de Construccion,1200000.0
+Obras Publicas,Materiales y Suministros de Operacion,1000.0
+Obras Publicas,Costos de Construccion,1400000.0
+Obras Publicas,Costos de Construccion,600000.0
+Obras Publicas,Renta de Equipos y Vehiculos,1305000.0
+Obras Publicas,Miscelaneos,500.0
+Obras Publicas,Empleados Regulares,18876.0
+Obras Publicas,Seguro Social Federal,1505.21
+Obras Publicas,Plan Medico,2040.0
+Obras Publicas,Bono Navideno,800.0
+Obras Publicas,Mantenimiento de Equipo,5000.0
+Recreacion y Deportes,Empleados Regulares,799852.8
+Recreacion y Deportes,Seguro Social Federal,63697.94
+Recreacion y Deportes,Plan Medico,83640.0
+Recreacion y Deportes,Bono Navideno,32800.0
+Recreacion y Deportes,Materiales de Mantenimiento,40000.0
+Recreacion y Deportes,Alimentos,2500.0
+Recreacion y Deportes,Materiales de Construccion,160000.0
+Recreacion y Deportes,Materiales y Suministros de Operacion,130000.0
+Recreacion y Deportes,Equipo de Mantenimiento,30000.0
+Recreacion y Deportes,Compra de Equipos,10000.0
+Recreacion y Deportes,Servicios Profesionales - No Clasificados,800000.0
+Recreacion y Deportes,Relaciones Publicas,25.0
+Recreacion y Deportes,Costos de Construccion,25.0
+Recreacion y Deportes,Donaciones,58000.0
+Recreacion y Deportes,Renta de Equipos y Vehiculos,402000.0
+Recreacion y Deportes,Mantenimiento de Equipo,30000.0
+Recreacion y Deportes,Miscelaneos,50000.0
+Recreacion y Deportes,Miscelaneos,456000.0
+Recreacion y Deportes,Festival o Actividad I,62500.0
+Oficina Municipal Manejo de Emergencias,Empleados Regulares,152820.0
+Oficina Municipal Manejo de Emergencias,Seguro Social Federal,17070.21
+Oficina Municipal Manejo de Emergencias,Beneficios Marginales,65520.0
+Oficina Municipal Manejo de Emergencias,Plan Medico,12240.0
+Oficina Municipal Manejo de Emergencias,Bono Navideno,4800.0
+Oficina Municipal Manejo de Emergencias,Combustible y Lubricantes,1000.0
+Oficina Municipal Manejo de Emergencias,Compra de Equipos,70000.0
+Oficina Municipal Manejo de Emergencias,Servicios Profesionales - No Clasificados,155155.8
+Oficina Municipal Manejo de Emergencias,Renta de Equipos y Vehiculos,438600.0
+Oficina Municipal Manejo de Emergencias,Mantenimiento de Equipo,10000.0
+Oficina Municipal Manejo de Emergencias,Miscelaneos,7000.0
+Oficina Municipal Manejo de Emergencias,Empleados Regulares,110291.16
+Oficina Municipal Manejo de Emergencias,Seguro Social Federal,8804.47
+Oficina Municipal Manejo de Emergencias,Plan Medico,12240.0
+Oficina Municipal Manejo de Emergencias,Bono Navideno,4800.0
+Oficina Municipal Manejo de Emergencias,Drogas, Medicinas y Otros Suministros,2000.0
+Oficina Municipal Manejo de Emergencias,Alimentos,15000.0
+Oficina Municipal Manejo de Emergencias,Materiales y Suministros de Operacion,3000.0
+Oficina Municipal Manejo de Emergencias,Adiestramientos,5000.0
+Oficina Municipal Manejo de Emergencias,Empleados Regulares,83532.0
+Oficina Municipal Manejo de Emergencias,Seguro Social Federal,6635.0
+Oficina Municipal Manejo de Emergencias,Plan Medico,8160.0
+Oficina Municipal Manejo de Emergencias,Bono Navideno,3200.0
+Oficina Municipal Manejo de Emergencias,Alimentos,25.0
+Oficina Municipal Manejo de Emergencias,Combustible y Lubricantes,25.0
+Oficina Municipal Manejo de Emergencias,Renta de Equipos y Vehiculos,500.0
+Oficina Municipal Manejo de Emergencias,Mantenimiento de Equipo,2000.0
+Compras y Suministros,Empleados Regulares,97152.0
+Compras y Suministros,Seguro Social Federal,7615.73
+Compras y Suministros,Plan Medico,6120.0
+Compras y Suministros,Bono Navideno,2400.0
+Compras y Suministros,Materiales de Oficina,25.0
+Compras y Suministros,Materiales de Mantenimiento,25.0
+Compras y Suministros,Materiales de Construccion,100000.0
+Compras y Suministros,Materiales y Suministros de Operacion,25.0
+Compras y Suministros,Compra de Equipos,25.0
+Compras y Suministros,Gastos de Viaje,25.0
+Compras y Suministros,Cuotas y Suscripciones,30000.0
+Compras y Suministros,Renta de Equipos y Vehiculos,25.0
+Compras y Suministros,Miscelaneos,10000.0
+Educacion,Empleados Regulares,115812.0
+Educacion,Seguro Social Federal,9104.42
+Educacion,Plan Medico,8160.0
+Educacion,Bono Navideno,3200.0
+Educacion,Materiales de Construccion,25.0
+Educacion,Materiales y Suministros de Operacion,4000.0
+Educacion,Equipo de Oficina,25.0
+Educacion,Servicios Profesionales - No Clasificados,37200.0
+Educacion,Mantenimiento de Equipo,25.0
+Educacion,Mantenimiento de Edificios,35000.0
+Educacion,Miscelaneos,16000.0
+Educacion,Otros Festivales o Actividades,21000.0
+Educacion,Empleados Regulares,62820.0
+Educacion,Seguro Social Federal,4989.33
+Educacion,Plan Medico,6120.0
+Educacion,Bono Navideno,2400.0
+Educacion,Donaciones,25.0
+Educacion,Becas,25000.0
+Educacion,Miscelaneos,25.0
+Educacion,Empleados Regulares,127800.0
+Educacion,Seguro Social Federal,10205.1
+Educacion,Plan Medico,14280.0
+Educacion,Bono Navideno,5600.0
+Educacion,Herramientas,1000.0
+Educacion,Materiales de Construccion,40000.0
+Educacion,Materiales y Suministros de Operacion,1000.0
+Educacion,Compra de Equipos,25.0
+Educacion,Renta de Equipos y Vehiculos,38200.0
+Educacion,Mantenimiento de Equipo,2500.0
+Educacion,Miscelaneos,500.0
+Educacion,Alimentos,5000.0
+Educacion,Materiales y Suministros de Operacion,4000.0
+Educacion,Compra de Equipos,9000.0
+Educacion,Servicios Profesionales - No Clasificados,365890.0
+Educacion,Miscelaneos,10000.0
+Educacion,Relaciones Publicas,120000.0
+Facilidades Municipales,Empleados Regulares,135708.0
+Facilidades Municipales,Seguro Social Federal,10748.86
+Facilidades Municipales,Plan Medico,12240.0
+Facilidades Municipales,Bono Navideno,4800.0
+Facilidades Municipales,Materiales de Mantenimiento,25.0
+Facilidades Municipales,Materiales de Construccion,25.0
+Facilidades Municipales,Compra de Equipos,4000.0
+Facilidades Municipales,Mantenimiento de Equipo,5000.0
+Facilidades Municipales,Miscelaneos,5000.0
+Facilidades Municipales,Empleados Regulares,18948.0
+Facilidades Municipales,Seguro Social Federal,1510.72
+Facilidades Municipales,Plan Medico,2040.0
+Facilidades Municipales,Bono Navideno,800.0
+Facilidades Municipales,Empleados Regulares,36694.2
+Facilidades Municipales,Seguro Social Federal,2929.51
+Facilidades Municipales,Plan Medico,4080.0
+Facilidades Municipales,Bono Navideno,1600.0
+Facilidades Municipales,Materiales de Mantenimiento,15000.0
+Facilidades Municipales,Materiales de Construccion,4000.0
+Facilidades Municipales,Mantenimiento de Equipo,10000.0
+Facilidades Municipales,Mantenimiento de Edificios,12500.0
+Facilidades Municipales,Empleados Regulares,22488.0
+Facilidades Municipales,Seguro Social Federal,1781.53
+Facilidades Municipales,Plan Medico,2040.0
+Facilidades Municipales,Bono Navideno,800.0
+Facilidades Municipales,Materiales de Mantenimiento,4000.0
+Facilidades Municipales,Materiales y Suministros de Operacion,2000.0
+Facilidades Municipales,Empleados Regulares,17280.0
+Facilidades Municipales,Seguro Social Federal,1383.12
+Facilidades Municipales,Plan Medico,2040.0
+Facilidades Municipales,Bono Navideno,800.0
+Facilidades Municipales,Materiales de Mantenimiento,4000.0
+Facilidades Municipales,Materiales de Construccion,4000.0
+Facilidades Municipales,Empleados Regulares,16080.0
+Facilidades Municipales,Seguro Social Federal,1291.32
+Facilidades Municipales,Plan Medico,2040.0
+Facilidades Municipales,Bono Navideno,800.0
+Facilidades Municipales,Materiales de Construccion,15000.0
+Facilidades Municipales,Materiales y Suministros de Operacion,5000.0
+Conservacion de Edificios y Estructuras Municipales,Empleados Regulares,152208.0
+Conservacion de Edificios y Estructuras Municipales,Seguro Social Federal,12011.11
+Conservacion de Edificios y Estructuras Municipales,Plan Medico,12240.0
+Conservacion de Edificios y Estructuras Municipales,Bono Navideno,4800.0
+Conservacion de Edificios y Estructuras Municipales,Herramientas,25.0
+Conservacion de Edificios y Estructuras Municipales,Materiales y Suministros de Operacion,200000.0
+Conservacion de Edificios y Estructuras Municipales,Compra de Equipos,1000.0
+Conservacion de Edificios y Estructuras Municipales,Miscelaneos,25.0
+Conservacion y Ornato,Empleados Regulares,103464.0
+Conservacion y Ornato,Seguro Social Federal,8159.8
+Conservacion y Ornato,Plan Medico,8160.0
+Conservacion y Ornato,Bono Navideno,3200.0
+Conservacion y Ornato,Herramientas,2000.0
+Conservacion y Ornato,Materiales de Mantenimiento,50000.0
+Conservacion y Ornato,Materiales de Construccion,70000.0
+Conservacion y Ornato,Materiales y Suministros de Operacion,25.0
+Conservacion y Ornato,Equipo de Oficina,2000.0
+Conservacion y Ornato,Equipo de Mantenimiento,20000.0
+Conservacion y Ornato,Servicios Profesionales - No Clasificados,3412187.0
+Conservacion y Ornato,Renta de Equipos y Vehiculos,600000.0
+Conservacion y Ornato,Mantenimiento de Equipo,60000.0
+Conservacion y Ornato,Miscelaneos,161660.0
+Conservacion y Ornato,Landscaping o Paisajismo,120359.0
+Finanzas,Empleados Regulares,96840.0
+Finanzas,Seguro Social Federal,7653.06
+Finanzas,Plan Medico,8160.0
+Finanzas,Bono Navideno,3200.0
+Finanzas,Materiales y Suministros de Operacion,25.0
+Finanzas,Equipo de Oficina,1940.71
+Finanzas,Miscelaneos,4962354.22
+Sistemas y Procedimientos,Empleados Regulares,76704.0
+Sistemas y Procedimientos,Seguro Social Federal,5990.26
+Sistemas y Procedimientos,Plan Medico,4080.0
+Sistemas y Procedimientos,Bono Navideno,1600.0
+Sistemas y Procedimientos,Materiales y Suministros de Operacion,2000.0
+Sistemas y Procedimientos,Programas de Computadoras,154707.0
+Sistemas y Procedimientos,Compra de Equipos,15000.0
+Sistemas y Procedimientos,Servicios Profesionales - No Clasificados,737791.0
+Sistemas y Procedimientos,Miscelaneos,500.0
+Guardia Municipal,Empleados Regulares,134760.0
+Guardia Municipal,Seguro Social Federal,17108.46
+Guardia Municipal,Plan Medico,8160.0
+Guardia Municipal,Bono Navideno,3200.0
+Guardia Municipal,Beneficios Marginales,85680.0
+Guardia Municipal,Empleados Regulares,2590824.0
+Guardia Municipal,Seguro Social Federal,204746.44
+Guardia Municipal,Plan Medico,218280.0
+Guardia Municipal,Bono Navideno,85600.0
+Guardia Municipal,Alimentos,500.0
+Guardia Municipal,Compra de Uniformes,30000.0
+Guardia Municipal,Materiales y Suministros de Operacion,50000.0
+Guardia Municipal,Equipo de Oficina,25.0
+Guardia Municipal,Compra de Equipos,125000.0
+Guardia Municipal,Adiestramientos,50000.0
+Guardia Municipal,Servicios Profesionales - No Clasificados,174630.6
+Guardia Municipal,Mantenimiento de Equipo,20000.0
+Guardia Municipal,Miscelaneos,80000.0
+Guardia Municipal,Miscelaneos,6000000.0
+Empresas Medicas,Empleados Regulares,109836.0
+Empresas Medicas,Guardias Medicas,4638.0
+Empresas Medicas,Seguro Social Federal,11829.5
+Empresas Medicas,Plan Medico,8160.0
+Empresas Medicas,Bono Navideno,3200.0
+Empresas Medicas,Renuncias Voluntarias Incentivadas,36960.0
+Empresas Medicas,Herramientas,25.0
+Empresas Medicas,Drogas, Medicinas y Otros Suministros,84800.0
+Empresas Medicas,Materiales de Mantenimiento,25.0
+Empresas Medicas,Alimentos,25.0
+Empresas Medicas,Materiales y Suministros de Operacion,5000.0
+Empresas Medicas,Equipo Medico,30000.0
+Empresas Medicas,Compra de Equipos,25.0
+Empresas Medicas,Adiestramientos,10000.0
+Empresas Medicas,Mantenimiento de Equipo,25.0
+Empresas Medicas,Mantenimiento de Vehiculos,25.0
+Empresas Medicas,Miscelaneos,5000.0
+Empresas Medicas,Disposicion de Desperdicios,75.0
+Empresas Medicas,Seguro Social Federal,578.34
+Empresas Medicas,Renuncias Voluntarias Incentivadas,7560.0
+Empresas Medicas,Alimentos,2000.0
+Empresas Medicas,Materiales y Suministros de Operacion,500.0
+Empresas Medicas,Servicios Profesionales - No Clasificados,210200.0
+Empresas Medicas,Relaciones Publicas,500.0
+Empresas Medicas,Renta de Equipos y Vehiculos,1500.0
+Empresas Medicas,Miscelaneos,2000.0
+Empresas Medicas,Festival o Actividad I,5000.0
+Servicios Humanos Institucionales,Beneficios Marginales,12600.0
+Servicios Humanos Institucionales,Seguro Social Federal,963.9
+Servicios Humanos Institucionales,Materiales de Oficina,25.0
+Servicios Humanos Institucionales,Alimentos,2000.0
+Servicios Humanos Institucionales,Drogas, Medicinas y Otros Suministros,20000.0
+Servicios Humanos Institucionales,Materiales y Suministros de Operacion,3500.0
+Servicios Humanos Institucionales,Compra de Equipos,25.0
+Servicios Humanos Institucionales,Servicios Profesionales - No Clasificados,216841.0
+Servicios Humanos Institucionales,Donaciones,115000.0
+Servicios Humanos Institucionales,Miscelaneos,1500.0
+Oficina de Permisos,Empleados Regulares,106536.0
+Oficina de Permisos,Seguro Social Federal,8333.6
+Oficina de Permisos,Plan Medico,6120.0
+Oficina de Permisos,Bono Navideno,2400.0
+Oficina de Permisos,Materiales y Suministros de Operacion,1000.0
+Oficina de Permisos,Compra de Equipos,3000.0
+Oficina de Permisos,Servicios Profesionales - No Clasificados,133000.0
+Oficina de Permisos,Mantenimiento de Equipo,25.0
+Oficina de Permisos,Miscelaneos,500.0
+Aportaciones Federales,Empleados Transitorios,199788.0
+Aportaciones Federales,Vacaciones Acumuladas, Licencia Enfermedad,25.0
+Aportaciones Federales,Seguro Choferil,100.0
+Aportaciones Federales,Seguro Social Federal,15956.98
+Aportaciones Federales,Plan Medico,18360.0
+Aportaciones Federales,Seguro por Desempleo,2500.0
+Aportaciones Federales,Beneficio por Fondo del Seguro del Estado,8000.0
+Aportaciones Federales,Bono Navideno,8800.0
+Aportaciones Federales,Materiales de Oficina,5000.0
+Aportaciones Federales,Materiales de Mantenimiento,2000.0
+Aportaciones Federales,Materiales y Suministros de Operacion,2000.0
+Aportaciones Federales,Compra de Equipos,50.0
+Aportaciones Federales,Renta de Equipos y Vehiculos,14565.0
+Aportaciones Federales,Miscelaneos,500.0
+Aportaciones Federales,Empleados Transitorios,14136.0
+Aportaciones Federales,Seguro Social Federal,1295.6
+Aportaciones Federales,Plan Medico,2040.0
+Aportaciones Federales,Seguro por Desempleo,357.0
+Aportaciones Federales,Beneficio por Fondo del Seguro del Estado,537.0
+Aportaciones Federales,Bono Navideno,800.0
+Aportaciones Federales,Beneficios Marginales,2000.0
+Aportaciones Federales,Empleados Transitorios,312497.04
+Aportaciones Federales,Seguro Choferil,200.0
+Aportaciones Federales,Seguro Social Federal,25481.92
+Aportaciones Federales,Plan Medico,44880.0
+Aportaciones Federales,Seguro por Desempleo,5000.0
+Aportaciones Federales,Beneficio por Fondo del Seguro del Estado,12500.0
+Aportaciones Federales,Bono Navideno,17600.0
+Aportaciones Federales,Beneficios Marginales,3000.0
+Aportaciones Federales,Alimentos,130000.0
+Aportaciones Federales,Materiales y Suministros de Operacion,21375.0
+Aportaciones Federales,Renta de Equipos y Vehiculos,485000.0
+Aportaciones Federales,Miscelaneos,25.0
+Aportaciones Federales,Empleados Transitorios,14400.0
+Aportaciones Federales,Seguro Social Federal,1162.8
+Aportaciones Federales,Plan Medico,2040.0
+Aportaciones Federales,Seguro por Desempleo,200.0
+Aportaciones Federales,Beneficio por Fondo del Seguro del Estado,525.0
+Aportaciones Federales,Bono Navideno,800.0
+Aportaciones Federales,Materiales y Suministros de Operacion,20000.0
+Aportaciones Federales,Empleados Transitorios,416076.0
+Aportaciones Federales,Seguro Choferil,20.0
+Aportaciones Federales,Seguro Social Federal,31952.21
+Aportaciones Federales,Plan Medico,4080.0
+Aportaciones Federales,Seguro por Desempleo,550.0
+Aportaciones Federales,Beneficio por Fondo del Seguro del Estado,14193.0
+Aportaciones Federales,Bono Navideno,1600.0
+Aportaciones Federales,Materiales y Suministros de Operacion,16000.0
+Aportaciones Federales,Empleados Transitorios,459772.0
+Aportaciones Federales,Seguro Choferil,100.0
+Aportaciones Federales,Seguro Social Federal,35356.16
+Aportaciones Federales,Plan Medico,6120.0
+Aportaciones Federales,Seguro por Desempleo,1526.48
+Aportaciones Federales,Beneficio por Fondo del Seguro del Estado,15700.2
+Aportaciones Federales,Bono Navideno,2400.0
+Aportaciones Federales,Alimentos,140000.0
+Aportaciones Federales,Materiales y Suministros de Operacion,10000.0
+Aportaciones Federales,Empleados Transitorios,28272.0
+Aportaciones Federales,Seguro Social Federal,2285.21
+Aportaciones Federales,Inspeccion de Edificios y Construcciones,4080.0
+Aportaciones Federales,Seguro por Desempleo,350.0
+Aportaciones Federales,Beneficio por Fondo del Seguro del Estado,960.0
+Aportaciones Federales,Bono Navideno,1600.0
+Aportaciones Federales,Empleados Transitorios,81324.0
+Aportaciones Federales,Seguro Choferil,50.0
+Aportaciones Federales,Seguro Social Federal,6527.29
+Aportaciones Federales,Plan Medico,10200.0
+Aportaciones Federales,Seguro por Desempleo,1500.0
+Aportaciones Federales,Beneficio por Fondo del Seguro del Estado,3200.0
+Aportaciones Federales,Bono Navideno,4000.0
+Centro de Cuidado Diurno,Empleados Regulares,35916.0
+Centro de Cuidado Diurno,Seguro Social Federal,2869.97
+Centro de Cuidado Diurno,Plan Medico,4080.0
+Centro de Cuidado Diurno,Bono Navideno,1600.0
+Cultura y Turismo,Materiales y Suministros de Operacion,5000.0
+Cultura y Turismo,Compra de Equipos,25.0
+Cultura y Turismo,Servicios Profesionales - No Clasificados,1000.0
+Cultura y Turismo,Mantenimiento de Equipo,25.0
+Cultura y Turismo,Otros Festivales o Actividades,25.0
+Relaciones Publicas,Telefono y Comunicaciones,400.0
+Relaciones Publicas,Materiales y Suministros de Operacion,25.0
+Relaciones Publicas,Servicios Profesionales - No Clasificados,90000.0
+Relaciones Publicas,Relaciones Publicas,25.0
+Relaciones Publicas,Cuotas y Suscripciones,25.0
+Relaciones Publicas,Miscelaneos,25.0
+Relaciones Publicas,Publicaciones y Anuncios,300000.0
+Compras y Suministros,Compra de Uniformes,50000.0
+Secretaria Municipal,Servicios Profesionales - No Clasificados,14000.0
+Oficina Municipal Manejo de Emergencias,Materiales y Suministros de Operacion,7000.0
+Recursos Humanos,Bono Navideno,440000.0
+Recursos Humanos,Seguro Social Federal,33660.0
+Finanzas,Costos de Construccion,50000.0
+Recreacion y Deportes,Miscelaneos,650000.0
+Finanzas,Aportacion al Fondo de Equiparacion,8994542.0

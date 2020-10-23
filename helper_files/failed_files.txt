@@ -1,0 +1,11 @@
+guanica/guanica_salaries.csv
+florida/florida_salaries.csv
+yauco/yauco_salaries.csv
+rincon/rincon_salaries.csv
+rio_grande/rio_grande_salaries.csv
+dorado/dorado_salaries.csv
+toa_baja/toa_baja_salaries.csv
+quebradillas/quebradillas_salaries.csv
+cidra/cidra_salaries.csv
+camuy/camuy_salaries.csv
+san_sebastian/san_sebastian_salaries.csv

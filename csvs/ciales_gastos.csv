@@ -1,0 +1,182 @@
+departamento,gasto,monto
+Legislatura Municipal,Empleados Regulares,74544.0
+Legislatura Municipal,Seguro Choferil,45.0
+Legislatura Municipal,Seguro Social Federal,5886.22
+Legislatura Municipal,Plan Medico,7200.0
+Legislatura Municipal,Bono Navideno,2400.0
+Legislatura Municipal,Materiales de Oficina,1500.0
+Legislatura Municipal,Equipo de Oficina,1000.0
+Legislatura Municipal,Dietas,20000.0
+Legislatura Municipal,Gastos de Representacion,200.0
+Legislatura Municipal,Servicios Profesionales - No Clasificados,10000.0
+Legislatura Municipal,Relaciones Publicas,200.0
+Legislatura Municipal,Seguros,500.0
+Legislatura Municipal,Cuotas y Suscripciones,2200.0
+Legislatura Municipal,Mantenimiento de Vehiculos,2000.0
+Legislatura Municipal,Miscelaneos,2000.0
+Legislatura Municipal,Publicaciones y Anuncios,1000.0
+Legislatura Municipal,Compra de Equipos,1500.0
+Legislatura Municipal,Mantenimiento de Vehiculos,3570.0
+Oficina del Alcalde(sa),Empleados Regulares,463959.6
+Oficina del Alcalde(sa),Seguro Choferil,250.0
+Oficina del Alcalde(sa),Seguro Social Federal,36456.81
+Oficina del Alcalde(sa),Plan Medico,39600.0
+Oficina del Alcalde(sa),Bono Navideno,12600.0
+Oficina del Alcalde(sa),Servicios Profesionales - No Clasificados,94620.0
+Oficina del Alcalde(sa),Gastos de Viaje,500.0
+Oficina del Alcalde(sa),Servicios Legales,78000.0
+Oficina del Alcalde(sa),Cuotas y Suscripciones,6000.0
+Oficina del Alcalde(sa),Mantenimiento de Vehiculos,2000.0
+Oficina del Alcalde(sa),Mantenimiento de Edificios,5000.0
+Oficina del Alcalde(sa),Miscelaneos,2000.0
+Oficina del Alcalde(sa),Renta de Edificios, Locales y Terrenos,9720.0
+Oficina del Alcalde(sa),Renta de Equipos y Vehiculos,3570.0
+Oficina del Alcalde(sa),Mantenimiento de Vehiculos,2000.0
+Oficina del Alcalde(sa),Miscelaneos,5000.0
+Oficina del Alcalde(sa),Relaciones Publicas,10000.0
+Oficina del Alcalde(sa),Donaciones,20000.0
+Oficina del Alcalde(sa),Fiestas Patronales,15000.0
+Oficina del Alcalde(sa),Festival o Actividad II,10000.0
+Oficina del Alcalde(sa),Otros Festivales o Actividades,50000.0
+Oficina del Alcalde(sa),Becas,10000.0
+Finanzas,Empleados Regulares,483363.6
+Finanzas,Seguro Choferil,25.0
+Finanzas,Seguro Social Federal,38216.62
+Finanzas,Plan Medico,48600.0
+Finanzas,Seguro por Desempleo,25000.0
+Finanzas,Bono Navideno,16200.0
+Finanzas,Renta de Equipos y Vehiculos,78366.0
+Finanzas,Mantenimiento de Vehiculos,500.0
+Finanzas,Aportacion al Fondo de Equiparacion,675622.78
+Finanzas,Beneficio por Fondo del Seguro del Estado,145103.66
+Finanzas,Canon Excavaciones y Demoliciones,5000.0
+Finanzas,Deficit,129961.18
+Finanzas,Intereses Cuentas Vendidas,12423.64
+Finanzas,Miscelaneos,43020.65
+Finanzas,Franqueo,2000.0
+Finanzas,Pago de Sentencias y Reclamaciones,337375.26
+Finanzas,Aportacion al CRIM,42544.64
+Finanzas,Liquidacion Deuda del CRIM,86619.58
+Finanzas,Transferencias que Salen,10360.71
+Obras Publicas,Empleados Regulares,230385.6
+Obras Publicas,Seguro Choferil,200.0
+Obras Publicas,Seguro Social Federal,18267.1
+Obras Publicas,Plan Medico,25200.0
+Obras Publicas,Bono Navideno,8400.0
+Obras Publicas,Herramientas,500.0
+Obras Publicas,Materiales de Construccion,5000.0
+Obras Publicas,Materiales y Suministros de Operacion,10000.0
+Obras Publicas,Energia Electrica,256066.96
+Obras Publicas,Materiales de Construccion,1000.0
+Obras Publicas,Mantenimiento de Vehiculos,40000.0
+Obras Publicas,Miscelaneos,4000.0
+Obras Publicas,Renta de Equipos y Vehiculos,500.0
+Salud,Empleados Regulares,225240.0
+Salud,Seguro Choferil,250.0
+Salud,Seguro Social Federal,17735.76
+Salud,Plan Medico,19800.0
+Salud,Bono Navideno,6600.0
+Salud,Adiestramientos,100.0
+Salud,Compra de Uniformes,100.0
+Salud,Materiales y Suministros de Operacion,100.0
+Salud,Mantenimiento de Vehiculos,100.0
+Oficina Municipal Manejo de Emergencias,Empleados Regulares,299414.4
+Oficina Municipal Manejo de Emergencias,Seguro Choferil,200.0
+Oficina Municipal Manejo de Emergencias,Seguro Social Federal,23731.4
+Oficina Municipal Manejo de Emergencias,Plan Medico,32400.0
+Oficina Municipal Manejo de Emergencias,Bono Navideno,10800.0
+Guardia Municipal,Empleados Regulares,302007.6
+Guardia Municipal,Seguro Choferil,350.0
+Guardia Municipal,Seguro Social Federal,23929.78
+Guardia Municipal,Plan Medico,32400.0
+Guardia Municipal,Bono Navideno,10800.0
+Guardia Municipal,Mantenimiento de Vehiculos,6000.0
+Guardia Municipal,Miscelaneos,1500.0
+Recursos Humanos,Empleados Regulares,137667.6
+Recursos Humanos,Empleados Transitorios,785610.0
+Recursos Humanos,Vacaciones Acumuladas, Licencia Regular,10000.0
+Recursos Humanos,Vacaciones Acumuladas, Licencia Enfermedad,10000.0
+Recursos Humanos,Seguro Choferil,25.0
+Recursos Humanos,Seguro Social Federal,10852.87
+Recursos Humanos,Plan Medico,12600.0
+Recursos Humanos,Bono Navideno,4200.0
+Recursos Humanos,Servicios Profesionales - No Clasificados,9900.0
+Recursos Humanos,Pruebas de Dopaje,1500.0
+Recursos Humanos,Seguro Social Federal,62531.86
+Recursos Humanos,Plan Medico,95400.0
+Recursos Humanos,Bono Navideno,31800.0
+Recursos Humanos,Adiestramientos,1000.0
+Recursos Humanos,Renta de Equipos y Vehiculos,3570.0
+Recursos Humanos,Mantenimiento de Vehiculos,2000.0
+Recursos Humanos,Miscelaneos,500.0
+Recreacion y Deportes,Empleados Regulares,164316.0
+Recreacion y Deportes,Seguro Choferil,115.0
+Recreacion y Deportes,Seguro Social Federal,13029.17
+Recreacion y Deportes,Plan Medico,18000.0
+Recreacion y Deportes,Bono Navideno,6000.0
+Recreacion y Deportes,Mantenimiento de Vehiculos,2000.0
+Recreacion y Deportes,Donaciones,2000.0
+Recreacion y Deportes,Miscelaneos,2000.0
+Sanidad o Saneamiento,Empleados Regulares,375927.6
+Sanidad o Saneamiento,Seguro Choferil,300.0
+Sanidad o Saneamiento,Seguro Social Federal,29905.96
+Sanidad o Saneamiento,Plan Medico,45000.0
+Sanidad o Saneamiento,Bono Navideno,15000.0
+Secretaria Municipal,Empleados Regulares,71232.0
+Secretaria Municipal,Seguro Social Federal,5632.85
+Secretaria Municipal,Plan Medico,7200.0
+Secretaria Municipal,Bono Navideno,2400.0
+Secretaria Municipal,Miscelaneos,2000.0
+Secretaria Municipal,Publicaciones y Anuncios,1500.0
+Auditoria Interna,Empleados Regulares,39132.0
+Auditoria Interna,Seguro Choferil,50.0
+Auditoria Interna,Seguro Social Federal,3085.4
+Auditoria Interna,Plan Medico,3600.0
+Auditoria Interna,Bono Navideno,1200.0
+Auditoria Interna,Adiestramientos,250.0
+Auditoria Interna,Gastos de Auditoria Sencilla (Single Audit),35000.0
+Auditoria Interna,Miscelaneos,250.0
+Planificacion y Desarrollo,Empleados Regulares,52596.0
+Planificacion y Desarrollo,Seguro Choferil,25.0
+Planificacion y Desarrollo,Seguro Social Federal,4161.29
+Planificacion y Desarrollo,Plan Medico,5400.0
+Planificacion y Desarrollo,Bono Navideno,1800.0
+Conservacion y Ornato,Empleados Regulares,238920.0
+Conservacion y Ornato,Seguro Choferil,80.0
+Conservacion y Ornato,Seguro Social Federal,18919.98
+Conservacion y Ornato,Plan Medico,25200.0
+Conservacion y Ornato,Bono Navideno,8400.0
+Conservacion y Ornato,Herramientas,500.0
+Conservacion y Ornato,Compra de Uniformes,100.0
+Conservacion y Ornato,Materiales y Suministros de Operacion,6000.0
+Conservacion y Ornato,Compra de Equipos,2000.0
+Conservacion y Ornato,Mantenimiento de Vehiculos,2000.0
+Conservacion y Ornato,Miscelaneos,500.0
+Compras y Suministros,Empleados Regulares,22260.0
+Compras y Suministros,Seguro Choferil,20.0
+Compras y Suministros,Seguro Social Federal,1748.79
+Compras y Suministros,Plan Medico,1800.0
+Compras y Suministros,Bono Navideno,600.0
+Compras y Suministros,Materiales de Mantenimiento,5000.0
+Compras y Suministros,Materiales de Oficina,5000.0
+Compras y Suministros,Compra de Equipos,5000.0
+Turismo,Empleados Regulares,39132.0
+Turismo,Seguro Choferil,25.0
+Turismo,Seguro Social Federal,3085.4
+Turismo,Plan Medico,3600.0
+Turismo,Bono Navideno,1200.0
+Turismo,Miscelaneos,1000.0
+Servicios Humanos Institucionales,Empleados Regulares,132427.2
+Servicios Humanos Institucionales,Seguro Choferil,25.0
+Servicios Humanos Institucionales,Seguro Social Federal,10497.88
+Servicios Humanos Institucionales,Plan Medico,14400.0
+Servicios Humanos Institucionales,Bono Navideno,4800.0
+Servicios Humanos Institucionales,Renta de Equipos y Vehiculos,3000.0
+Servicios Humanos Institucionales,Miscelaneos,100.0
+Control Ambiental,Empleados Regulares,101340.0
+Control Ambiental,Seguro Choferil,150.0
+Control Ambiental,Seguro Social Federal,8027.91
+Control Ambiental,Plan Medico,10800.0
+Control Ambiental,Bono Navideno,3600.0
+Control Ambiental,Mantenimiento de Vehiculos,2000.0
+Control Ambiental,Miscelaneos,250.0
