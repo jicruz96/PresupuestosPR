@@ -165,6 +165,9 @@ def get_info(keyword1, keyword2=None):
     if keyword1 == 'departamentos':
         return jsonify(departments)
 
+    if keyword1 == 'municipios':
+        return jsonify(municipalities)
+
     department = getDepartment(keyword1)
     if department is None:
         abort(404)
