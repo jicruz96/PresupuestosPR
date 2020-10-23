@@ -55,7 +55,7 @@ def getBudgetType(budgetType):
     if budgetType:
         budgetType = standardize(budgetType)
 
-        if budgetType in ['egresos', 'ingresos', 'departamentos']:
+        if budgetType in ['gastos', 'ingresos', 'departamentos']:
             return budgetType
 
     return None
@@ -69,7 +69,7 @@ def getMuniDict(municipality, filter=None):
     if budgetType is None and department is None and filter is not None:
         abort(404)
 
-    path = "jsons/{}.json".format(municipality)
+    path = "jsons/{}.json".format(municipality.replace('-', '_'))
     with open(path, 'r') as file:
         budget = load(file)
         file.close()
@@ -98,6 +98,8 @@ def getMuniBudget(municipality, keyword2):
         extension = municipality.split('.')[1]
     except IndexError:
         extension = 'json'
+
+    municipality = municipality.split('.')[0]
 
     if extension == 'json':
         return getMuniDict(municipality, keyword2)
