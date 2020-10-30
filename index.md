@@ -5,10 +5,65 @@
 ## Coming Soon!
 * Data for city government salaries.
 * Data for publict debt.
+* English version of API
+* Automatic exports to CSV, Google Sheets, Excel
 
 ## The Site
 
 ## The API
+
+**The API is straightforward. Just write the name of a municipality.**
+```
+# Replace <municipality> with a municipality name
+presupuestospr.com/api/<municipality>/
+```
+
+This request returns a JSON-formatted dictionary of the following information:
+```
+{
+    'municipio': # municipality name,
+    'gastos': # expenses,
+    'ingresos': # revenue,
+    'deudas': # debt
+    'departamentos': # municipal departments
+}
+```
+
+The values of this dictionary are explained further below:
+
+| Key             | Key Description       | Value                                                                                                  |
+|-----------------|-----------------------|--------------------------------------------------------------------------------------------------------|
+| `municipio`     | Municipality name     | string |
+| `gastos`        | Expenses              | `{"monto" (dollar amount): float, "departamento": string, "gasto" (expense description): string }`   |
+| `ingresos`      | Revenue               | `{"monto" (dollar amount): float, "departamento": string, "ingreso" (revenue description): string }`) |
+| `deudas`        | Public debt           | `{"monto" (dollar amount): float, "departamento": string, "deuda" (debt description): string }`     |
+| `departamentos` | Municipal departments | Dictionary of departments: `{ {'departamento': string, 'id': int, 'palabra clave' (keyword): string}, ... }` |
+
+
+You can also choose to receive only one of these keys:
+```
+presupuestospr.com/api/<municipality>/ingresos # Returns revenue only
+presupuestospr.com/api/<municipality>/gastos # Returns expenses only
+presupuestospr.com/api/<municipality>/departamentos # Returns departments only
+
+# Note: filtering for debt unavaiable as of 10-30-2020
+```
+---
+You can also receive **expenses** for a specific department by using the following route:
+```
+presupuestospr.com/api/<municipality>/<departamento>
+
+# Replace <municipality> with a municipality 
+# Replace <departamentos> with a department name
+```
+
+
+Don't know your municipalities or city departments? Use the following endpoints:
+```
+presupuestospr.com/api/municipios   # Returns list of ALL municipalities
+presupuestospr.com/api/departamentos # Returns list of ALL departments
+```
+
 
 ## About
 
