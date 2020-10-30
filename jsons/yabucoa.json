@@ -1,0 +1,1632 @@
+{
+    "municipio": "yabucoa",
+    "sueldos": null,
+    "gastos": [
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Empleados Regulares",
+            "monto": 40512.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Seguro Social Federal",
+            "monto": 3175.66
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Plan Medico",
+            "monto": 2400.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Bono Navideno",
+            "monto": 1000.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Materiales de Oficina",
+            "monto": 800.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Equipo de Oficina",
+            "monto": 2125.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Compra de Equipos",
+            "monto": 22000.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Dietas",
+            "monto": 25000.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Servicios Legales",
+            "monto": 20400.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Cuotas y Suscripciones",
+            "monto": 6600.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Mantenimiento de Vehiculos",
+            "monto": 500.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Miscelaneos",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Legislatura Municipal",
+            "gasto": "Publicaciones y Anuncios",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Empleados Regulares",
+            "monto": 250596.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Empleados Transitorios",
+            "monto": 65904.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Seguro Social Federal",
+            "monto": 24043.95
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Plan Medico",
+            "monto": 13200.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Bono Navideno",
+            "monto": 5000.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Materiales de Oficina",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Dietas",
+            "monto": 8000.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Relaciones Publicas",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Servicios Legales",
+            "monto": 27500.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Cuotas y Suscripciones",
+            "monto": 6000.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Donaciones",
+            "monto": 7000.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Empleados Regulares",
+            "monto": 43476.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Empleados Transitorios",
+            "monto": 30180.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Seguro Social Federal",
+            "monto": 5825.92
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Plan Medico",
+            "monto": 6000.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Bono Navideno",
+            "monto": 2500.0
+        },
+        {
+            "departamento": "Oficina del Alcalde(sa)",
+            "gasto": "Mantenimiento de Vehiculos",
+            "monto": 600.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Empleados Regulares",
+            "monto": 416888.4
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Empleados Transitorios",
+            "monto": 199788.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Seguro Choferil",
+            "monto": 3000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Seguro Social Federal",
+            "monto": 47795.07
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Plan Medico",
+            "monto": 40800.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Seguro por Desempleo",
+            "monto": 34000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Beneficio por Fondo del Seguro del Estado",
+            "monto": 335628.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Bono Navideno",
+            "monto": 17000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Materiales de Oficina",
+            "monto": 4000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Energia Electrica",
+            "monto": 591271.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Acueducto y Alcantarillados",
+            "monto": 228000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Programas de Computadoras",
+            "monto": 44400.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Compra de Equipos",
+            "monto": 500.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 25000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Costos de Adquisicion",
+            "monto": 191000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Canon Excavaciones y Demoliciones",
+            "monto": 8000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Cargos por Servicios Bancarios",
+            "monto": 8000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Seguros",
+            "monto": 210000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Deficit",
+            "monto": 50000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Reserva de Deficit",
+            "monto": 134000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Intereses Cuentas Vendidas",
+            "monto": 12152.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Mantenimiento de Equipo",
+            "monto": 2400.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Mantenimiento de Vehiculos",
+            "monto": 5000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Miscelaneos",
+            "monto": 4000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Franqueo",
+            "monto": 1000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Pago de Sentencias y Reclamaciones",
+            "monto": 466818.05
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Reclamaciones Anos Anteriores",
+            "monto": 304137.1
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Aportacion al Fondo de Equiparacion",
+            "monto": 698371.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Aportacion al CRIM",
+            "monto": 92031.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Liquidacion Deuda del CRIM",
+            "monto": 43837.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Transferencias que Salen",
+            "monto": 61296.0
+        },
+        {
+            "departamento": "Finanzas",
+            "gasto": "Telefono y Comunicaciones",
+            "monto": 154600.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Regulares",
+            "monto": 240687.6
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Transitorios",
+            "monto": 904620.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Seguro Social Federal",
+            "monto": 90246.42
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Plan Medico",
+            "monto": 103200.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Bono Navideno",
+            "monto": 43000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Materiales de Oficina",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Herramientas",
+            "monto": 1500.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Materiales y Suministros de Operacion",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Equipo de Oficina",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Equipo de Mecanica",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Compra de Equipos",
+            "monto": 60000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 14000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Servicios No Profesionales",
+            "monto": 24000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Costos de Construccion",
+            "monto": 36000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Renta de Equipos y Vehiculos",
+            "monto": 84000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Mantenimiento de Equipo",
+            "monto": 96000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Reparacion y Mantenimiento de Estructuras",
+            "monto": 26000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Mantenimiento de Vehiculos",
+            "monto": 60000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Transitorios",
+            "monto": 56592.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Seguro Social Federal",
+            "monto": 4558.79
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Plan Medico",
+            "monto": 7200.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Bono Navideno",
+            "monto": 3000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Reparacion y Mantenimiento de Estructuras",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Regulares",
+            "monto": 18483.6
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Transitorios",
+            "monto": 116208.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Seguro Social Federal",
+            "monto": 10686.43
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Plan Medico",
+            "monto": 12000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Bono Navideno",
+            "monto": 5000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Transitorios",
+            "monto": 452640.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Seguro Social Federal",
+            "monto": 35850.95
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Plan Medico",
+            "monto": 38400.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Bono Navideno",
+            "monto": 16000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Mantenimiento de Vehiculos",
+            "monto": 100000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Disposicion de Desperdicios",
+            "monto": 540000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Regulares",
+            "monto": 101880.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Transitorios",
+            "monto": 296160.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Seguro Social Federal",
+            "monto": 31368.09
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Plan Medico",
+            "monto": 28800.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Bono Navideno",
+            "monto": 12000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 25000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Reparacion y Mantenimiento de Estructuras",
+            "monto": 24000.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Miscelaneos",
+            "monto": 2400.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Regulares",
+            "monto": 44652.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Empleados Transitorios",
+            "monto": 61416.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Seguro Social Federal",
+            "monto": 8420.21
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Plan Medico",
+            "monto": 9600.0
+        },
+        {
+            "departamento": "Obras Publicas",
+            "gasto": "Bono Navideno",
+            "monto": 4000.0
+        },
+        {
+            "departamento": "Salud",
+            "gasto": "Empleados Regulares",
+            "monto": 248112.0
+        },
+        {
+            "departamento": "Salud",
+            "gasto": "Empleados Transitorios",
+            "monto": 356376.0
+        },
+        {
+            "departamento": "Salud",
+            "gasto": "Seguro Social Federal",
+            "monto": 45429.1
+        },
+        {
+            "departamento": "Salud",
+            "gasto": "Plan Medico",
+            "monto": 31200.0
+        },
+        {
+            "departamento": "Salud",
+            "gasto": "Bono Navideno",
+            "monto": 13000.0
+        },
+        {
+            "departamento": "Salud",
+            "gasto": "Empleados Transitorios",
+            "monto": 566100.0
+        },
+        {
+            "departamento": "Salud",
+            "gasto": "Seguro Social Federal",
+            "monto": 46175.25
+        },
+        {
+            "departamento": "Salud",
+            "gasto": "Plan Medico",
+            "monto": 90000.0
+        },
+        {
+            "departamento": "Salud",
+            "gasto": "Bono Navideno",
+            "monto": 37500.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Empleados Regulares",
+            "monto": 91632.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Empleados Transitorios",
+            "monto": 52800.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Seguro Social Federal",
+            "monto": 11355.05
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Plan Medico",
+            "monto": 9600.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Bono Navideno",
+            "monto": 4000.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Materiales de Oficina",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Herramientas",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Materiales de Mantenimiento",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Materiales y Suministros de Operacion",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Equipo Medico",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Compra de Equipos",
+            "monto": 1000.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 18000.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Servicios No Profesionales",
+            "monto": 9600.0
+        },
+        {
+            "departamento": "Oficina Municipal Manejo de Emergencias",
+            "gasto": "Mantenimiento de Vehiculos",
+            "monto": 3600.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Empleados Regulares",
+            "monto": 736392.96
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Empleados Transitorios",
+            "monto": 24168.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Seguro Social Federal",
+            "monto": 59559.95
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Plan Medico",
+            "monto": 43200.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Bono Navideno",
+            "monto": 18000.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Materiales de Oficina",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Materiales de Mantenimiento",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Telefono y Comunicaciones",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Materiales y Suministros de Operacion",
+            "monto": 600.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Equipo de Oficina",
+            "monto": 600.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Adiestramientos",
+            "monto": 67200.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Servicios Legales",
+            "monto": 3000.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Renta de Equipos y Vehiculos",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Guardia Municipal",
+            "gasto": "Mantenimiento de Vehiculos",
+            "monto": 12000.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Empleados Regulares",
+            "monto": 101616.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Empleados Transitorios",
+            "monto": 53700.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Vacaciones Acumuladas, Licencia Regular",
+            "monto": 85000.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Vacaciones Acumuladas, Licencia Enfermedad",
+            "monto": 45000.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Seguro Social Federal",
+            "monto": 21857.26
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Plan Medico",
+            "monto": 9600.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Bono Navideno",
+            "monto": 4000.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Materiales de Oficina",
+            "monto": 600.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Telefono y Comunicaciones",
+            "monto": 18000.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Equipo de Oficina",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Compra de Equipos",
+            "monto": 2000.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Adiestramientos",
+            "monto": 800.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Pruebas de Dopaje",
+            "monto": 3000.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Servicios Legales",
+            "monto": 40000.0
+        },
+        {
+            "departamento": "Recursos Humanos",
+            "gasto": "Miscelaneos",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Empleados Regulares",
+            "monto": 302412.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Empleados Transitorios",
+            "monto": 332472.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Seguro Social Federal",
+            "monto": 50213.3
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Plan Medico",
+            "monto": 51600.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Bono Navideno",
+            "monto": 21500.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Materiales y Suministros de Operacion",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Compra de Equipos",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 69650.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Donaciones",
+            "monto": 87000.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Miscelaneos",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Recreacion y Deportes",
+            "gasto": "Otros Festivales o Actividades",
+            "monto": 6000.0
+        },
+        {
+            "departamento": "Centro de Envejecientes",
+            "gasto": "Empleados Regulares",
+            "monto": 62520.0
+        },
+        {
+            "departamento": "Centro de Envejecientes",
+            "gasto": "Empleados Transitorios",
+            "monto": 280752.0
+        },
+        {
+            "departamento": "Centro de Envejecientes",
+            "gasto": "Seguro Social Federal",
+            "monto": 27025.33
+        },
+        {
+            "departamento": "Centro de Envejecientes",
+            "gasto": "Plan Medico",
+            "monto": 24000.0
+        },
+        {
+            "departamento": "Centro de Envejecientes",
+            "gasto": "Bono Navideno",
+            "monto": 10000.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Empleados Regulares",
+            "monto": 29952.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Seguro Social Federal",
+            "monto": 2329.58
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Bono Navideno",
+            "monto": 500.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Materiales de Oficina",
+            "monto": 500.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Alimentos",
+            "monto": 5000.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Equipo de Oficina",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 68280.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Relaciones Publicas",
+            "monto": 12000.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Miscelaneos",
+            "monto": 2400.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Festival o Actividad I",
+            "monto": 12000.0
+        },
+        {
+            "departamento": "Relaciones Publicas",
+            "gasto": "Otros Festivales o Actividades",
+            "monto": 30000.0
+        },
+        {
+            "departamento": "Aportaciones Federales",
+            "gasto": "Empleados Regulares",
+            "monto": 63012.0
+        },
+        {
+            "departamento": "Aportaciones Federales",
+            "gasto": "Empleados Transitorios",
+            "monto": 33948.0
+        },
+        {
+            "departamento": "Aportaciones Federales",
+            "gasto": "Seguro Social Federal",
+            "monto": 7646.93
+        },
+        {
+            "departamento": "Aportaciones Federales",
+            "gasto": "Plan Medico",
+            "monto": 7200.0
+        },
+        {
+            "departamento": "Aportaciones Federales",
+            "gasto": "Bono Navideno",
+            "monto": 3000.0
+        },
+        {
+            "departamento": "Aportaciones Federales",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 108000.0
+        },
+        {
+            "departamento": "Cultura y Turismo",
+            "gasto": "Empleados Regulares",
+            "monto": 76164.0
+        },
+        {
+            "departamento": "Cultura y Turismo",
+            "gasto": "Empleados Transitorios",
+            "monto": 47784.0
+        },
+        {
+            "departamento": "Cultura y Turismo",
+            "gasto": "Seguro Social Federal",
+            "monto": 9864.51
+        },
+        {
+            "departamento": "Cultura y Turismo",
+            "gasto": "Plan Medico",
+            "monto": 12000.0
+        },
+        {
+            "departamento": "Cultura y Turismo",
+            "gasto": "Bono Navideno",
+            "monto": 5000.0
+        },
+        {
+            "departamento": "Cultura y Turismo",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 81600.0
+        },
+        {
+            "departamento": "Cultura y Turismo",
+            "gasto": "Miscelaneos",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Empleados Regulares",
+            "monto": 62616.0
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Empleados Transitorios",
+            "monto": 15708.0
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Seguro Social Federal",
+            "monto": 6106.54
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Plan Medico",
+            "monto": 3600.0
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Bono Navideno",
+            "monto": 1500.0
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Materiales de Oficina",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Dietas",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Servicios Legales",
+            "monto": 34000.0
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Miscelaneos",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Secretaria Municipal",
+            "gasto": "Publicaciones y Anuncios",
+            "monto": 1600.0
+        },
+        {
+            "departamento": "Auditoria Interna",
+            "gasto": "Empleados Regulares",
+            "monto": 29844.0
+        },
+        {
+            "departamento": "Auditoria Interna",
+            "gasto": "Empleados Transitorios",
+            "monto": 7548.0
+        },
+        {
+            "departamento": "Auditoria Interna",
+            "gasto": "Seguro Social Federal",
+            "monto": 2936.99
+        },
+        {
+            "departamento": "Auditoria Interna",
+            "gasto": "Plan Medico",
+            "monto": 2400.0
+        },
+        {
+            "departamento": "Auditoria Interna",
+            "gasto": "Bono Navideno",
+            "monto": 1000.0
+        },
+        {
+            "departamento": "Auditoria Interna",
+            "gasto": "Gastos de Auditoria Sencilla (Single Audit)",
+            "monto": 24995.0
+        },
+        {
+            "departamento": "Auditoria Interna",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 5000.0
+        },
+        {
+            "departamento": "Auditoria Interna",
+            "gasto": "Miscelaneos",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Empleados Regulares",
+            "monto": 80748.0
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Empleados Transitorios",
+            "monto": 47040.0
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Seguro Social Federal",
+            "monto": 10120.03
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Plan Medico",
+            "monto": 10800.0
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Bono Navideno",
+            "monto": 4500.0
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Gastos de Transportacion a Estudiantes",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Donaciones",
+            "monto": 7800.0
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Becas",
+            "monto": 18000.0
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Renta de Edificios, Locales y Terrenos",
+            "monto": 13200.0
+        },
+        {
+            "departamento": "Educacion",
+            "gasto": "Festival o Actividad I",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Transportacion y Mantenimiento",
+            "gasto": "Empleados Regulares",
+            "monto": 63900.0
+        },
+        {
+            "departamento": "Transportacion y Mantenimiento",
+            "gasto": "Empleados Transitorios",
+            "monto": 128244.0
+        },
+        {
+            "departamento": "Transportacion y Mantenimiento",
+            "gasto": "Seguro Social Federal",
+            "monto": 15234.5
+        },
+        {
+            "departamento": "Transportacion y Mantenimiento",
+            "gasto": "Plan Medico",
+            "monto": 16800.0
+        },
+        {
+            "departamento": "Transportacion y Mantenimiento",
+            "gasto": "Bono Navideno",
+            "monto": 7000.0
+        },
+        {
+            "departamento": "Transportacion y Mantenimiento",
+            "gasto": "Compra de Equipos",
+            "monto": 64000.0
+        },
+        {
+            "departamento": "Transportacion y Mantenimiento",
+            "gasto": "Mantenimiento de Vehiculos",
+            "monto": 10000.0
+        },
+        {
+            "departamento": "Asuntos de la Juventud",
+            "gasto": "Miscelaneos",
+            "monto": 600.0
+        },
+        {
+            "departamento": "Asuntos de la Juventud",
+            "gasto": "Festival o Actividad I",
+            "monto": 20000.0
+        },
+        {
+            "departamento": "Asuntos de la Juventud",
+            "gasto": "Festival o Actividad II",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Asuntos de la Mujer",
+            "gasto": "Empleados Regulares",
+            "monto": 21672.0
+        },
+        {
+            "departamento": "Asuntos de la Mujer",
+            "gasto": "Seguro Social Federal",
+            "monto": 1696.16
+        },
+        {
+            "departamento": "Asuntos de la Mujer",
+            "gasto": "Plan Medico",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Asuntos de la Mujer",
+            "gasto": "Bono Navideno",
+            "monto": 500.0
+        },
+        {
+            "departamento": "Asuntos de la Mujer",
+            "gasto": "Materiales de Oficina",
+            "monto": 300.0
+        },
+        {
+            "departamento": "Asuntos de la Mujer",
+            "gasto": "Equipo de Oficina",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Asuntos de la Mujer",
+            "gasto": "Miscelaneos",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Materiales de Oficina",
+            "monto": 4500.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Materiales de Mantenimiento",
+            "monto": 3000.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Compra de Uniformes",
+            "monto": 20000.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Combustible y Lubricantes",
+            "monto": 320000.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Materiales y Suministros de Operacion",
+            "monto": 10000.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Equipo de Oficina",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Compra de Equipos",
+            "monto": 24000.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Dietas",
+            "monto": 4000.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Adiestramientos",
+            "monto": 1500.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Servicios Profesionales - No Clasificados",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Servicios No Profesionales",
+            "monto": 100.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Pruebas de Dopaje",
+            "monto": 10000.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Renta de Edificios, Locales y Terrenos",
+            "monto": 13800.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Renta de Equipos y Vehiculos",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Mantenimiento de Equipo",
+            "monto": 10000.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Reparacion y Mantenimiento de Estructuras",
+            "monto": 13800.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Mantenimiento de Vehiculos",
+            "monto": 12000.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Miscelaneos",
+            "monto": 138236.41
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Publicaciones y Anuncios",
+            "monto": 1200.0
+        },
+        {
+            "departamento": "Secretaria de Administracion",
+            "gasto": "Franqueo",
+            "monto": 1000.0
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Empleados Regulares",
+            "monto": 43512.0
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Empleados Transitorios",
+            "monto": 96708.0
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Seguro Social Federal",
+            "monto": 11147.57
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Plan Medico",
+            "monto": 13200.0
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Bono Navideno",
+            "monto": 5500.0
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Donaciones",
+            "monto": 65000.0
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Empleados Transitorios",
+            "monto": 77328.0
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Seguro Social Federal",
+            "monto": 6183.34
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Plan Medico",
+            "monto": 8400.0
+        },
+        {
+            "departamento": "Oficina de Iniciativas de Bases de Fe y Comunitarias",
+            "gasto": "Bono Navideno",
+            "monto": 3500.0
+        }
+    ],
+    "deudas": [
+        {
+            "departamento": "Finanzas",
+            "deuda": "Contribucion sobre Propiedad Exonerada",
+            "monto": 0.0
+        },
+        {
+            "departamento": "Finanzas",
+            "deuda": "Contribucion Propiedad No Exonerada (Otras Fuentes Financieras)",
+            "monto": 1199589.0
+        },
+        {
+            "departamento": "Finanzas",
+            "deuda": "Amortizacion de Principal de Prestamos",
+            "monto": 608000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "deuda": "Intereses",
+            "monto": 570888.0
+        },
+        {
+            "departamento": "Finanzas",
+            "deuda": "Reserva",
+            "monto": 20701.0
+        }
+    ],
+    "ingresos": [
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Patentes",
+            "monto": 3363310.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Patentes Anos Anteriores",
+            "monto": 0.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Impuesto Municipal sobre las Ventas",
+            "monto": 698801.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Intereses, Recargos y Penalidades Sales Tax",
+            "monto": 15000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Intereses y Recargos por Demoras en Patentes",
+            "monto": 70000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Contribucion sobre Propiedad Exonerada",
+            "monto": 0.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Arbitrios de Construccion",
+            "monto": 345000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Licencias y Permisos",
+            "monto": 145951.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Compensacion AEE",
+            "monto": 566271.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Otros Ingresos Intergubernamentales",
+            "monto": 4375030.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Compensaciones Estatales",
+            "monto": 0.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Otros Ingresos por Servicios",
+            "monto": 425000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Multas",
+            "monto": 1000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Intereses en Inversiones",
+            "monto": 0.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Intereses Bancarios",
+            "monto": 42000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Ingresos Eventuales",
+            "monto": 100000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Renta Locales y Propiedad Municipal",
+            "monto": 72000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Otros Ingresos",
+            "monto": 0.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Ventas Sellos y Comprobantes Departamento de HaciendaOtros Recursos",
+            "monto": 5000.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "FinancierosContribucion",
+            "monto": 3263137.0
+        },
+        {
+            "departamento": "Finanzas",
+            "ingreso": "Propiedad No",
+            "monto": 2029245.0
+        }
+    ],
+    "departamentos": {
+        "legislatura-municipal": {
+            "id": 0,
+            "palabra clave": "legislatura",
+            "relacionados": []
+        },
+        "oficina-del-alcalde(sa)": {
+            "id": 1,
+            "palabra clave": "alcalde",
+            "relacionados": []
+        },
+        "finanzas": {
+            "id": 2,
+            "palabra clave": "finanzas",
+            "relacionados": []
+        },
+        "obras-publicas": {
+            "id": 3,
+            "palabra clave": "obras-publicas",
+            "relacionados": []
+        },
+        "salud": {
+            "id": 27,
+            "palabra clave": "salud",
+            "relacionados": []
+        },
+        "oficina-municipal-manejo-de-emergencias": {
+            "id": 4,
+            "palabra clave": "emergencias",
+            "relacionados": []
+        },
+        "guardia-municipal": {
+            "id": 5,
+            "palabra clave": "guardia-municipal",
+            "relacionados": []
+        },
+        "recursos-humanos": {
+            "id": 6,
+            "palabra clave": "recursos-humanos",
+            "relacionados": []
+        },
+        "recreacion-y-deportes": {
+            "id": 7,
+            "palabra clave": "recreacion-y-deportes",
+            "relacionados": []
+        },
+        "centro-de-envejecientes": {
+            "id": 8,
+            "palabra clave": "centro-de-envejecientes",
+            "relacionados": []
+        },
+        "relaciones-publicas": {
+            "id": 9,
+            "palabra clave": "relaciones-publicas",
+            "relacionados": []
+        },
+        "aportaciones-federales": {
+            "id": 28,
+            "palabra clave": "aportaciones-federales",
+            "relacionados": []
+        },
+        "cultura-y-turismo": {
+            "id": 10,
+            "palabra clave": "cultura-y-turismo",
+            "relacionados": []
+        },
+        "secretaria-municipal": {
+            "id": 12,
+            "palabra clave": "secretaria-municipal",
+            "relacionados": []
+        },
+        "auditoria-interna": {
+            "id": 13,
+            "palabra clave": "auditoria-interna",
+            "relacionados": []
+        },
+        "educacion": {
+            "id": 24,
+            "palabra clave": "educacion",
+            "relacionados": []
+        },
+        "transportacion-y-mantenimiento": {
+            "id": 43,
+            "palabra clave": "transportacion-y-mantenimiento",
+            "relacionados": []
+        },
+        "asuntos-de-la-juventud": {
+            "id": 50,
+            "palabra clave": "juventud",
+            "relacionados": []
+        },
+        "asuntos-de-la-mujer": {
+            "id": 56,
+            "palabra clave": "asuntos-de-la-mujer",
+            "relacionados": []
+        },
+        "secretaria-de-administracion": {
+            "id": 38,
+            "palabra clave": "secretaria-de-administracion",
+            "relacionados": []
+        },
+        "oficina-de-iniciativas-de-bases-de-fe-y-comunitarias": {
+            "id": 51,
+            "palabra clave": "fe",
+            "relacionados": []
+        }
+    }
+}

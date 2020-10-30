@@ -1,0 +1,23 @@
+header {
+    background: #E9EDEE;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+header .logo {
+    background: url("../images/logo.png") no-repeat;
+    height: 100%;
+    float: left;
+    width: 40%;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+
+header .pages {
+    float: left;
+    color: #484848;
+    font-size: 30px;
+    height: 70%;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}

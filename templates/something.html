@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../static/styles/common.css">
+    <link rel="stylesheet" type="text/css" href="../static/styles/header.css">
+    <link rel="stylesheet" type="text/css" href="../static/styles/footer.css">
+    <link rel="stylesheet" type="text/css" href="../static/styles/filters.css">
+    <link rel="icon" href="images/logo.png" />
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="scripts/script.js"></script>
+    <title>PresupuestosPR.com</title>
+</head>
+
+<body>
+    <header>
+        <div class="logo"></div>
+        <div class="pages">
+            <ul>About</ul>
+        </div>
+    </header>
+    <div class="container">
+        <section class="filters">
+            <div class="locations">
+                <h3>Municipios</h3>
+                <h4>&nbsp;</h4>
+                <div class="popover">
+                    <ul>
+                        {% for muni in municipios %}
+                        <li for="{{ muni }}">
+                            <input type="checkbox" id="{{ muni }}" />
+                            {{ muni }}
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <button type="button">Buscar presupuesto</button>
+        </section>
+    </div>
+    <footer>
+        <p>Holberton School</p>
+    </footer>
+</body>
+
+</html>

@@ -2,16 +2,10 @@
 """ index """
 
 from api.v1.views import app_views
-from flask import jsonify, abort
+from flask import jsonify, abort, render_template
 from json import load
 from info import departments, municipalities, departmentIds, departmentKeys
 from unidecode import unidecode
-
-
-@app_views.route('/status', methods=['GET'], strict_slashes=False)
-def status():
-    """ return status of API """
-    return {'status': 'OK'}
 
 
 def standardize(s):
@@ -25,7 +19,7 @@ def filterByBudgetType(budget, budgetType):
 
     newDict = {}
     for key in budget:
-        if key in ['municipios', budgetType]:
+        if key in ['municipio', budgetType]:
             newDict.update({key: budget[key]})
 
     return newDict
@@ -44,7 +38,7 @@ def getDepartment(department):
             return departmentIds[department]
 
         if department in departmentKeys:
-            return departmentKeys[department][0]
+            return departmentKeys[department]
 
     return None
 
@@ -76,7 +70,8 @@ def getMuniDict(municipality, filter=None):
 
     if department:
         budget = filterByBudgetType(budget, 'gastos')
-        newDict = {'departamento': department, 'gastos': []}
+        muni = budget['municipio']
+        newDict = {'municipio': muni, 'departamento': department, 'gastos': []}
         for row in budget['gastos']:
             if standardize(row['departamento']) == department:
                 newDict['gastos'].append(row)
@@ -147,6 +142,18 @@ def getMuniCsv(muni, filter):
         return ''.join(csv)
 
     abort(404)
+
+
+@app_views.route('/', strict_slashes=False)
+def home_page():
+    """ home page """
+    return render_template('home.html')
+
+
+@app_views.route('/something', strict_slashes=False)
+def something():
+    """ something """
+    return render_template('something.html', municipios=municipalities)
 
 
 @app_views.route('/api/<keyword1>', strict_slashes=False)
