@@ -13,6 +13,13 @@
 ---
 ## The Site
 
+The site ( [presupuestospr.com](http://presupuestospr.com) ) is currently under construction. It utilizes its own API as a back-end. 
+
+Future plans for the site include:
+* **An advocacy page** where visitors can directly request their municipal legislature to make financial data more accessible .
+* Basic data visualization of data
+* Data report blogs from yours truly and guest writers
+
 ---
 ## The API
 
@@ -88,4 +95,10 @@ presupuestospr.com/api/departamentos # Returns list of ALL departments
 ![J.I. Cruz headshot](https://media-exp1.licdn.com/dms/image/C4E03AQEk2JMYFPtrLQ/profile-displayphoto-shrink_200_200/0?e=1609372800&v=beta&t=nVmKkSJZ4lLY1bGMj803nOQB7kvoLcj9EqQ5T6-VIpg)
 
 #### J.I. Cruz - Founder and Project Lead
-* J.I. Cruz is a 23 year-old wannabe social entrepreneur from Bayamón, Puerto Rico. He is passionate about building systems that make communities stronger, healthier, and more in harmony with their environment. 
+* J.I. Cruz is a 23 year-old wannabe social entrepreneur from Bayamón, Puerto Rico. He is passionate about building systems that make communities stronger, healthier, and more in harmony with their environment.
+
+#### You?
+
+J.I. is a second-year software engineering student at Holberton School Tulsa. His back-end infrastructure is hanging by a thread. J.I. does not know JavaScript, so his dynamic page generation could use some help. J.I. would be more than happy to have some help with that or with whatever you can help with.
+
+Contact J.I. at ji@jicruz.com
