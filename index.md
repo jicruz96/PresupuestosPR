@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jicruz96/PresupuestosPR.com/gh-pages/prespuestos_pr_placeholder.png" />
+  <a href="http://presupuestospr.com/">
+    <img src="https://raw.githubusercontent.com/jicruz96/PresupuestosPR.com/gh-pages/prespuestos_pr_placeholder.png" />
+  </a>
  </p>
 
 ## Coming Soon!
