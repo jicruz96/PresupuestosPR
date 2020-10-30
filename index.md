@@ -10,8 +10,10 @@
 * English version of API
 * Automatic exports to CSV, Google Sheets, Excel
 
+---
 ## The Site
 
+---
 ## The API
 
 **The API is straightforward. Just write the name of a municipality.**
@@ -50,7 +52,8 @@ presupuestospr.com/api/<municipality>/departamentos # Returns departments only
 
 # Note: filtering for debt unavaiable as of 10-30-2020
 ```
----
+
+
 You can also receive **expenses** for a specific department by using the following route:
 ```
 presupuestospr.com/api/<municipality>/<departamento>
@@ -66,7 +69,7 @@ presupuestospr.com/api/municipios   # Returns list of ALL municipalities
 presupuestospr.com/api/departamentos # Returns list of ALL departments
 ```
 
-
+---
 ## About
 
 ### The Mission: Transparency
@@ -85,4 +88,4 @@ presupuestospr.com/api/departamentos # Returns list of ALL departments
 ![J.I. Cruz headshot](https://media-exp1.licdn.com/dms/image/C4E03AQEk2JMYFPtrLQ/profile-displayphoto-shrink_200_200/0?e=1609372800&v=beta&t=nVmKkSJZ4lLY1bGMj803nOQB7kvoLcj9EqQ5T6-VIpg)
 
 #### J.I. Cruz - Founder and Project Lead
-* J.I. Cruz is a 23 year-old wannabe social entrepreneur from Bayamón, Puerto Rico. He is passionate about building systems that make communities stronger, healthier, and in harmony with their environment. 
+* J.I. Cruz is a 23 year-old wannabe social entrepreneur from Bayamón, Puerto Rico. He is passionate about building systems that make communities stronger, healthier, and more in harmony with their environment. 
