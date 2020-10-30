@@ -4,12 +4,6 @@
   </a>
  </p>
 
-## Coming Soon!
-* Data for city government salaries.
-* Data for publict debt.
-* English version of API
-* Automatic exports to CSV, Google Sheets, Excel
-
 ---
 ## The Site
 
@@ -75,6 +69,16 @@ presupuestospr.com/api/departamentos # Returns list of ALL departments
 ```
 
 ---
+
+
+## Coming Soon!
+* Data for city government salaries.
+* Data for publict debt.
+* English version of API
+* Automatic exports to CSV, Google Sheets, Excel
+
+---
+
 ## About
 
 ### The Mission: Transparency
