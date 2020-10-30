@@ -1,4 +1,6 @@
-![PresupuestosPR.com - A municipal budget web app for Pureto Rico](https://raw.githubusercontent.com/jicruz96/PresupuestosPR.com/gh-pages/prespuestos_pr_placeholder.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jicruz96/PresupuestosPR.com/gh-pages/prespuestos_pr_placeholder.png" />
+ </p>
 
 ## Coming Soon!
 * Data for city government salaries.
