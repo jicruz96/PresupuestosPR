@@ -61,12 +61,10 @@ presupuestospr.com/api/<municipality>/departamentos # Returns departments only
 ```
 
 
-You can also receive **expenses** for a specific department by using the following route:
+You can also receive **a department's specific expenses** by using the following route:
 ```
-presupuestospr.com/api/<municipality>/<departamento>
-
-# Replace <municipality> with a municipality 
-# Replace <departamentos> with a department name
+# Replace <municipality> with a municipality and <departamentos> with a department name
+presupuestospr.com/api/<municipality>/<departament>
 ```
 
 
