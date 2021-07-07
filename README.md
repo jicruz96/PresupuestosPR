@@ -102,7 +102,7 @@ presupuestospr.com/api/departamentos # Returns list of ALL departments
 
 ### The Team
 
-![J.I. Cruz headshot](https://media-exp1.licdn.com/dms/image/C4E03AQEk2JMYFPtrLQ/profile-displayphoto-shrink_200_200/0?e=1609372800&v=beta&t=nVmKkSJZ4lLY1bGMj803nOQB7kvoLcj9EqQ5T6-VIpg)
+![J.I. Cruz headshot](./img/ji.png)
 
 #### J.I. Cruz - Founder and Project Lead
 * J.I. Cruz is a 23 year-old wannabe social entrepreneur from Bayamón, Puerto Rico. He is passionate about building systems that make communities stronger, healthier, and more in harmony with their environment.
