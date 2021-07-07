@@ -105,10 +105,8 @@ presupuestospr.com/api/departamentos # Returns list of ALL departments
 ![J.I. Cruz headshot](./img/ji.png)
 
 #### J.I. Cruz - Founder and Project Lead
-* J.I. Cruz is a 23 year-old wannabe social entrepreneur from Bayamón, Puerto Rico. He is passionate about building systems that make communities stronger, healthier, and more in harmony with their environment.
+* J.I. Cruz is a 24 year-old wannabe social entrepreneur from Bayamón, Puerto Rico. He is passionate about building systems that make communities stronger, healthier, and more in harmony with their environment.
 
 #### You?
-
-J.I. is a second-year software engineering student at Holberton School Tulsa. His back-end infrastructure is hanging by a thread. J.I. does not know JavaScript, so his dynamic page generation could use some help. J.I. would be more than happy to have some help with that or with whatever you can help with.
 
 Contact J.I. at ji@jicruz.com
